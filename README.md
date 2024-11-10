@@ -7,8 +7,6 @@ As preparations for the event did entail a lot of manual entry, I decided to cre
 # Why is it now on GitHub?
 
 Yeah, I decided that it would be best to:
-- Show off my programming skills
-- Show how innovative I am (subjective)
 - Let my other team members access the Markdown files as a neat summary **instead of having to go to each individual site!**
 
 # I want this taken down!
