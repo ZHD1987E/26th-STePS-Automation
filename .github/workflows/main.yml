@@ -3,6 +3,7 @@ name: Generate me a list of projects and videos
 on:
   schedule:
     - cron: '0/10 * * * *'
+  workflow_dispatch:
 
 jobs:
   run-script:
@@ -15,5 +16,16 @@ jobs:
       uses: actions/setup-python@v4
       with:
         python-version: '3.12'
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
     - name: Run script
       run: scraping.py
+    - name: Upload files
+      uses: actions/upload-artifact@v3
+      with:
+        name: Project Files
+        path: |
+          project names.md
+          project videos.md
