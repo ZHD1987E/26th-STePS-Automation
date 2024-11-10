@@ -35,8 +35,6 @@ jobs:
       # Step 5: Commit and push output file to GitHub
       - name: Commit and push output file to GitHub
         run: |
-          git config --global user.name "Your Name"
-          git config --global user.email "your-email@example.com"
           
           # Add the output file(s) to the repository
           git add "project names.md" "project videos.md"
