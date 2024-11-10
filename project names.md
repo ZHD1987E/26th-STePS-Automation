@@ -30,7 +30,7 @@ CS4350-6: NUSims
 # IS4103 project names
 IS4103-1: PortConnect: Port Management Information System
 
-IS4103-2: AI Fitness
+IS4103-2: SupremeFit
 
 IS4103-3: Repair.sg
 
@@ -90,4 +90,4 @@ MComp-FYP-4: iReflect
 
 MComp-FYP-5: TheQuantPrep
 
-Last updated: 2024-11-10 14:14:38.488352
+Last updated: 2024-11-10 14:36:34.650043
