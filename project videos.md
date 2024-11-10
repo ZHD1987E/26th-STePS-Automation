@@ -12,7 +12,7 @@ CS3216-2: https://youtu.be/DaUWVAlYqm8
 
 CS3216-3: https://www.youtube.com/watch?v=Jqc1mjaHtjQ
 
-CS3216-4: NIL
+CS3216-4: https://youtu.be/5QoUWva_Kt4
 
 # CS4350 project videos
 CS4350-1: NIL
@@ -90,4 +90,4 @@ MComp-FYP-4: NIL
 
 MComp-FYP-5: NIL
 
-Last updated: 2024-11-10 12:17:58.093763
+Last updated: 2024-11-10 12:53:27.754529
