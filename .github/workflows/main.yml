@@ -46,6 +46,6 @@ jobs:
           git commit -m "Updating files automatically every 30 minutes"
 
           # Push the changes back to the repository
-          git push origin main
+          git push -f origin main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
