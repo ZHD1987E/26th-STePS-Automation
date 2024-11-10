@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+from datetime import datetime
 moduleCodes = ["CS3203","CS3216","CS4350","IS4103","IS4250","MComp-FYP"]
 f1 = open("project names.md","w", encoding="utf-8")
 f2 = open("project videos.md", "w", encoding="utf-8")
@@ -33,6 +34,7 @@ for moduleCode in moduleCodes:
             f1.write(f"An error somehow occured. {e}\n")
             f2.write(f"An error somehow occured. {e}\n")
             break
-
+f1.write(f"Last updated: {datetime.now()}")
+f2.write(f"Last updated: {datetime.now()}")
 f1.close()
 f2.close()

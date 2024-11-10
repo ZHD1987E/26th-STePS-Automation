@@ -38,7 +38,7 @@ IS4103-4: 🍽️ Hungry? EatLah! 🍽️
 
 IS4103-5: GudFood
 
-IS4103-6: IGNITE Financial Platform (TT03)
+IS4103-6: IGNITE
 
 IS4103-7: ready to jalanJalan?
 
@@ -90,3 +90,4 @@ MComp-FYP-4: iReflect
 
 MComp-FYP-5: TheQuantPrep
 
+Last updated: 2024-11-10 18:49:28.674384
