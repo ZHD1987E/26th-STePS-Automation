@@ -1,0 +1,1 @@
+As preparations for the event did entail a lot of manual entry, I decided to create this webscraper (though very basic) to help me scrape links and project titles for what I need. It picks up the project title and YouTube links from individual project pages (e.g. ".../CS6010/1") and converts them to a handy Markdown page.
