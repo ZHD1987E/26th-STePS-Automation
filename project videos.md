@@ -17,7 +17,7 @@ CS3216-4: https://youtu.be/5QoUWva_Kt4
 # CS4350 project videos
 CS4350-1: NIL
 
-CS4350-2: NIL
+CS4350-2: https://youtu.be/4P99WSo331w
 
 CS4350-3: NIL
 
@@ -90,4 +90,4 @@ MComp-FYP-4: NIL
 
 MComp-FYP-5: NIL
 
-Last updated: 2024-11-10 13:15:19.217810
+Last updated: 2024-11-10 13:34:27.016543
