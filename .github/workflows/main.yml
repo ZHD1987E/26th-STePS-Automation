@@ -36,14 +36,14 @@ jobs:
       - name: Commit and push output file to GitHub
         run: |
 
-          git config --global user.name "Scraping Bot"
+          git config --global user.name "not ZHD1987E"
           git config --global user.email "zhanghaodong101@outlook.com"
           
           # Add the output file(s) to the repository
           git add "project names.md" "project videos.md" "project-details.json"
 
           # Commit the changes
-          git commit -m "Updating files automatically every 30 minutes"
+          git commit -m "Updating files automatically every hour"
 
           # Push the changes back to the repository
           git push -f origin main
