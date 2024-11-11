@@ -84,10 +84,10 @@ MComp-FYP-1: KathakalAI
 
 MComp-FYP-2: Learning platform for Data Engineering
 
-MComp-FYP-3: Automated Generation & Analysis of Cyberattack Dataset
+MComp-FYP-3: CP2107 - Automated Generation & Analysis of Cyberattack Dataset
 
 MComp-FYP-4: iReflect
 
 MComp-FYP-5: TheQuantPrep
 
-Last updated: 2024-11-11 13:23:36.333305
+Last updated: 2024-11-11 14:10:22.024330
