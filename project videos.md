@@ -82,7 +82,7 @@ IS4250-12: NIL
 # MComp-FYP project videos
 MComp-FYP-1: NIL
 
-MComp-FYP-2: NIL
+MComp-FYP-2: https://youtu.be/iGduMFtNEaE
 
 MComp-FYP-3: NIL
 
@@ -90,4 +90,4 @@ MComp-FYP-4: NIL
 
 MComp-FYP-5: NIL
 
-Last updated: 2024-11-11 06:14:33.475817
+Last updated: 2024-11-11 06:42:57.841040
