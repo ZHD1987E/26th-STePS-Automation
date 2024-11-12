@@ -86,8 +86,8 @@ MComp-FYP-2: Learning platform for Data Engineering
 
 MComp-FYP-3: CP2107 - Automated Generation & Analysis of Cyberattack Dataset
 
-MComp-FYP-4: LLM Assisted Game Play-Testing and LLM Guided Design and Development Reflections
+MComp-FYP-4: LLM-Guided Design and Development Reflections and LLM-Assisted Game Play-Testing
 
 MComp-FYP-5: TheQuantPrep
 
-Last updated: 2024-11-12 15:18:49.988912
+Last updated: 2024-11-12 16:22:13.859831
