@@ -45,7 +45,7 @@ for moduleCode in moduleCodes:
             break
 f1.write(f"Last updated: {datetime.now()}")
 f2.write(f"Last updated: {datetime.now()}")
-json.dump(jsonDCT, f3)
+json.dump(jsonDCT, f3, indent = 4)
 f1.close()
 f2.close()
 f3.close()
