@@ -25,7 +25,7 @@ CS4350-4: NIL
 
 CS4350-5: https://youtu.be/FaUVHQUp2Lg
 
-CS4350-6: NIL
+CS4350-6: https://youtu.be/Twyovj12mvw
 
 # IS4103 project videos
 IS4103-1: NIL
@@ -90,4 +90,4 @@ MComp-FYP-4: NIL
 
 MComp-FYP-5: NIL
 
-Last updated: 2024-11-12 03:19:52.674080
+Last updated: 2024-11-12 04:20:38.887214
