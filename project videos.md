@@ -19,9 +19,9 @@ CS4350-1: NIL
 
 CS4350-2: https://youtu.be/z8HO62zyC6Q
 
-CS4350-3: NIL
+CS4350-3: https://youtu.be/fu57lGoPLKQ
 
-CS4350-4: NIL
+CS4350-4: https://www.youtube.com/watch?v=FD_ZmxG_Bw8
 
 CS4350-5: https://youtu.be/FaUVHQUp2Lg
 
@@ -90,4 +90,4 @@ MComp-FYP-4: NIL
 
 MComp-FYP-5: NIL
 
-Last updated: 2024-11-13 00:58:18.553950
+Last updated: 2024-11-13 12:24:26.480562
