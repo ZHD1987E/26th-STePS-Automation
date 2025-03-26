@@ -4,7 +4,7 @@ theJSON = requests.get("https://uvents.nus.edu.sg/api/event/26th-steps/moduleTra
 f1 = open("26th-steps-data.csv", "w", newline="")
 csvwriter = csv.writer(f1)
 f2 = open("26th-steps-projectnames.md", "w")
-csvwriter.writerow(["Track", "Project Number", "Project Name", "Video Link"])
+csvwriter.writerow(["Track", "Project Number", "Project Name", "Video Link", "Students", "Award"])
 for track in theJSON:
     nameDCT = {}
     for person in track["students"]:
@@ -18,6 +18,6 @@ for track in theJSON:
         projectMEMBERS = list(map(lambda x: nameDCT[x], project["members"]))
         projectNUMBER = project["refId"]
         f2.write(f"{trackCODE}-{projectNUMBER}: {projectNAME}\n")
-        csvwriter.writerow([trackCODE, projectNUMBER, projectNAME, projectVIDEOURL])
+        csvwriter.writerow([trackCODE, projectNUMBER, projectNAME, projectVIDEOURL, ";".join(projectMEMBERS), ""])
 f1.close()
 f2.close()
