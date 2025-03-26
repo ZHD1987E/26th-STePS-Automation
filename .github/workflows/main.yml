@@ -5,7 +5,7 @@ on:
     branches:
       - main  # Trigger on pushes to the main branch
   schedule:
-    - cron: '0 */1 * * *'  # Optionally, schedule to run daily at 2 a.m.
+    - cron: '0 */12 * * *'  # Optionally, schedule to run daily at 2 a.m.
 
 jobs:
   run_script:
@@ -43,7 +43,7 @@ jobs:
           git add "26th-steps-data.csv" "26th-steps-projectnames.md"
 
           # Commit the changes
-          git commit -m "Updating files automatically every hour"
+          git commit -m "Updating files automatically every 12 hours"
 
           # Push the changes back to the repository
           git push -f origin main
