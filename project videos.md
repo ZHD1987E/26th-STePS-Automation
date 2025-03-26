@@ -1,88 +1,123 @@
+# CP3108 project videos
+CP3108-1: NIL
+
+CP3108-2: NIL
+
+CP3108-3: NIL
+
+CP3108-4: NIL
+
+CP3108-5: NIL
+
+CP3108-6: NIL
+
+CP3108-7: NIL
+
+CP3108-8: NIL
+
+CP3108-9: NIL
+
+CP3108-10: NIL
+
+CP3108-11: NIL
+
+CP3108-12: NIL
+
+CP3108-13: NIL
+
+CP3108-14: NIL
+
+CP3108-15: NIL
+
+CP3108-16: NIL
+
+CP3108-17: NIL
+
+CP3108-18: NIL
+
 # CS3203 project videos
-CS3203-1: https://www.youtube.com/watch?v=6aFXOQL71Sg
+CS3203-1: NIL
 
 CS3203-2: NIL
 
-CS3203-3: https://youtu.be/6iYzopMrF7E
+CS3203-3: NIL
 
-# CS3216 project videos
-CS3216-1: https://www.youtube.com/watch?v=emoclqk7CFY
+# CS3217 project videos
+# CS3247 project videos
+CS3247-1: NIL
 
-CS3216-2: https://youtu.be/DaUWVAlYqm8
+CS3247-2: NIL
 
-CS3216-3: https://www.youtube.com/watch?v=Jqc1mjaHtjQ
+CS3247-3: NIL
 
-CS3216-4: https://youtu.be/5QoUWva_Kt4
+CS3247-4: NIL
 
-# CS4350 project videos
-CS4350-1: NIL
+CS3247-5: NIL
 
-CS4350-2: https://youtu.be/z8HO62zyC6Q
+CS3247-6: NIL
 
-CS4350-3: https://youtu.be/fu57lGoPLKQ
+CS3247-7: NIL
 
-CS4350-4: https://www.youtube.com/watch?v=FD_ZmxG_Bw8
+CS3247-8: NIL
 
-CS4350-5: https://youtu.be/FaUVHQUp2Lg
+CS3247-9: NIL
 
-CS4350-6: https://youtu.be/Twyovj12mvw
+CS3247-10: NIL
 
-# IS4103 project videos
-IS4103-1: NIL
+CS3247-11: NIL
 
-IS4103-2: NIL
+CS3247-12: NIL
 
-IS4103-3: https://youtu.be/i_qRjq_KGKI
+CS3247-13: NIL
 
-IS4103-4: NIL
+CS3247-14: NIL
 
-IS4103-5: NIL
+CS3247-15: NIL
 
-IS4103-6: https://www.youtube.com/watch?v=U8KVHoF_YGc&ab_channel=Syafiq
+# CS4240 project videos
+CS4240-1: NIL
 
-IS4103-7: https://youtu.be/0rZzZEBE1O4
+CS4240-2: NIL
 
-IS4103-8: NIL
+CS4240-3: NIL
 
-IS4103-9: NIL
+CS4240-4: NIL
 
-IS4103-10: NIL
+CS4240-5: NIL
 
-IS4103-11: NIL
+CS4240-6: NIL
 
-IS4103-12: NIL
+CS4240-7: NIL
 
-IS4103-13: https://youtu.be/XhqRi5lZivc
+CS4240-8: NIL
 
-# IS4250 project videos
-IS4250-1: NIL
+CS4240-9: NIL
 
-IS4250-2: https://youtu.be/q0FPJs2hseA
+# CS4248 project videos
+CS4248-1: NIL
 
-IS4250-3: NIL
+CS4248-2: NIL
 
-IS4250-4: NIL
+CS4248-3: NIL
 
-IS4250-5: https://youtu.be/nBRWwcU6HJ4
+CS4248-4: NIL
 
-IS4250-6: NIL
+CS4248-5: NIL
 
-IS4250-7: NIL
+CS4248-6: NIL
 
-IS4250-8: NIL
+CS4248-7: NIL
 
-IS4250-9: NIL
+CS4248-8: NIL
 
-IS4250-10: NIL
+CS4248-9: NIL
 
-IS4250-11: NIL
-
-IS4250-12: NIL
+CS4248-10: NIL
 
 # MComp-FYP project videos
 MComp-FYP-1: NIL
 
-MComp-FYP-2: https://youtu.be/iGduMFtNEaE
+MComp-FYP-2: NIL
 
 MComp-FYP-3: NIL
 
@@ -90,4 +125,16 @@ MComp-FYP-4: NIL
 
 MComp-FYP-5: NIL
 
-Last updated: 2024-11-13 12:24:26.480562
+MComp-FYP-6: NIL
+
+MComp-FYP-7: NIL
+
+MComp-FYP-8: NIL
+
+MComp-FYP-9: NIL
+
+MComp-FYP-10: NIL
+
+MComp-FYP-11: NIL
+
+Last updated: 2025-03-26 09:57:43.068728

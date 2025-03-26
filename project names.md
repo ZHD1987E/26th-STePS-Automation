@@ -1,93 +1,140 @@
+# CP3108 project names
+CP3108-1: AI-powered marking
+
+CP3108-2: Stepper rewrite
+
+CP3108-3: Java Visualization
+
+CP3108-4: Sessions
+
+CP3108-5: C compiler
+
+CP3108-6: CSE machine
+
+CP3108-7: Notebooks
+
+CP3108-8: Badges and achievements
+
+CP3108-9: Leaderboard
+
+CP3108-10: LSP implementations for VS Code
+
+CP3108-11: Programming components in Source Academy Game
+
+CP3108-12: SICP JS Internationalization
+
+CP3108-13: AI bots for CS1101S and SICP JS
+
+CP3108-14: Scheme edition of SICP
+
+CP3108-15: FFT for Sound Processing
+
+CP3108-16: Exam mode for Source Academy
+
+CP3108-17: brwne
+
+CP3108-18: Pie in Source Academy
+
 # CS3203 project names
-CS3203-1: GoodMeh?
+CS3203-1: TravelWise
 
-CS3203-2: Journey Genie
+CS3203-2: IamDB
 
-CS3203-3: Datalyzer
+CS3203-3: Just Yap!
 
-# CS3216 project names
-CS3216-1: Dokyu
+# CS3217 project names
+# CS3247 project names
+CS3247-1: Unknown
 
-CS3216-2: Eff BI
+CS3247-2: Unknown
 
-CS3216-3: Jippy
+CS3247-3: Unknown
 
-CS3216-4: OmniCAT
+CS3247-4: Unknown
 
-# CS4350 project names
-CS4350-1: OverStory
+CS3247-5: Unknown
 
-CS4350-2: Stay in SHAPE
+CS3247-6: Unknown
 
-CS4350-3: Rich Within Reach
+CS3247-7: Unknown
 
-CS4350-4: Rapture
+CS3247-8: Unknown
 
-CS4350-5: CryoSurgery Simulator
+CS3247-9: Unknown
 
-CS4350-6: NUSims
+CS3247-10: Unknown
 
-# IS4103 project names
-IS4103-1: PortConnect: Port Management Information System
+CS3247-11: Unknown
 
-IS4103-2: SupremeFit
+CS3247-12: Unknown
 
-IS4103-3: Repair.sg
+CS3247-13: Unknown
 
-IS4103-4: 🍽️ Hungry? EatLah! 🍽️
+CS3247-14: Unknown
 
-IS4103-5: GudFood
+CS3247-15: Unknown
 
-IS4103-6: IGNITE
+# CS4240 project names
+CS4240-1: Unknown
 
-IS4103-7: ready to jalanJalan?
+CS4240-2: StomaSim
 
-IS4103-8: Go Touch Grass
+CS4240-3: Unknown
 
-IS4103-9: PandaPay BNPL Platform
+CS4240-4: Unknown
 
-IS4103-10: Travel Together
+CS4240-5: Unknown
 
-IS4103-11: Lepark
+CS4240-6: Unknown
 
-IS4103-12: ParkLah!
+CS4240-7: MELTDOWN
 
-IS4103-13: BiteBack!
+CS4240-8: Unknown
 
-# IS4250 project names
-IS4250-1: Medication Delivery Service Management System for Pharmacy Department
+CS4240-9: Unknown
 
-IS4250-2: MyEyeBuddy: Knowledge Aggregator for the Low-Vision and Visually Impaired (LV/VI)
+# CS4248 project names
+CS4248-1: Team 14: Machine translation with ambiguous words in context.
 
-IS4250-3: Reimagining the patient journey: Improving the management of private patients
+CS4248-2: Team 25: Sarcastic news headlines (with their own Instagram dataset).
 
-IS4250-4: Emergency Pharmacy Roster Planning
+CS4248-3: Team 33: Emoji compositions with visual information.
 
-IS4250-5: Anaesthesiology Residency Program’s Rostering System
+CS4248-4: Team 35: Emoji compositions with visual information.
 
-IS4250-6: ACTFast: Enhancing Antibiotic Combination Testing (ACT) Service at Singapore General Hospital (SGH)
+CS4248-5: Team 41: Can emojis be used to capture meaning?
 
-IS4250-7: Dashboard Creation for Medicolegal Case Management Unit
+CS4248-6: Team 8: Mixture of Experts in Sarcasm Detection
 
-IS4250-8: Streamlining Wardstock Top Up and Expiry Check
+CS4248-7: Team 3: Code Embeddings for RAG
 
-IS4250-9: Safety Steps: A Medication Adventure
+CS4248-8: Team 22: Using Influence Functions for LLM Unlearning
 
-IS4250-10: Customisable Inventory Management System
+CS4248-9: Team 11: Distribution-Aware Sarcasm Detection
 
-IS4250-11: Reimagining Case Registration - Enhancing New Case Registration for NDCS
-
-IS4250-12: SMART ACT: Enhancing Antibiotic Testing Efficiency
+CS4248-10: 4 ConceptNet Path Quality Prediction
 
 # MComp-FYP project names
-MComp-FYP-1: KathakalAI
+MComp-FYP-1: Power management for Prahu Matahari
 
-MComp-FYP-2: Learning platform for Data Engineering
+MComp-FYP-2: A CSE machine for Python
 
-MComp-FYP-3: CP2107 - Automated Generation & Analysis of Cyberattack Dataset
+MComp-FYP-3: Improving Types in the Source Academy
 
-MComp-FYP-4: LLM-Guided Design and Development Reflections and LLM-Assisted Game Play-Testing
+MComp-FYP-4: A Software Architecture for Browser-based Programming Language Implementation
 
-MComp-FYP-5: TheQuantPrep
+MComp-FYP-5: Go in Source Academy
 
-Last updated: 2024-11-13 12:24:26.480545
+MComp-FYP-6: Java in Source Academy
+
+MComp-FYP-7: Source Academy as Visual Studio Code Extension
+
+MComp-FYP-8: Unknown
+
+MComp-FYP-9: Unknown
+
+MComp-FYP-10: Unknown
+
+MComp-FYP-11: Unknown
+
+Last updated: 2025-03-26 09:57:43.068711

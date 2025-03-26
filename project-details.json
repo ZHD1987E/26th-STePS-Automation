@@ -1,442 +1,583 @@
 {
-    "CS3203": {
+    "CP3108": {
         "1": {
-            "projName": "GoodMeh?",
+            "projName": "AI-powered marking",
             "nameList": [
-                "Lim Zhekai",
-                "Koh Shang Hui",
-                "Chong Kok Leong",
-                "Chen Yanyu"
+                "Eugene Oh Yun Zheng",
+                "R Arulkumaran"
             ]
         },
         "2": {
-            "projName": "Journey Genie",
+            "projName": "Stepper rewrite",
             "nameList": [
-                "Bryan Wee Shun Yi",
-                "Abola Juan Pablo Uichanco",
-                "Jereld Lim Jun You",
-                "Neo Shi Wen",
-                "Tang Weichun"
+                "Kavishwer Sathiamorthy",
+                "Kosolpattanadurong Thitiwat"
             ]
         },
         "3": {
-            "projName": "Datalyzer",
+            "projName": "Java Visualization",
             "nameList": [
-                "Jason Lim Choon Yen",
-                "Andrew Wirawan Sutjipto",
-                "Bhuvaneswaran Vignesh",
-                "Lee Yat Bun",
-                "Seow Xuan Yi"
-            ]
-        }
-    },
-    "CS3216": {
-        "1": {
-            "projName": "Dokyu",
-            "nameList": [
-                "Le Huy Chau",
-                "Nguyen Khoi Nguyen",
-                "Lam Jiu Fong",
-                "Daniel Kok",
-                "Daniel Kok"
-            ]
-        },
-        "2": {
-            "projName": "Eff BI",
-            "nameList": [
-                "Muhammad Reyaaz Bin Abdul Basheer",
-                "Vaishnav Muralidharan",
-                "Tan Wee Kian, Justin",
-                "Ho Cheng En Bryan",
-                "Ho Cheng En Bryan"
-            ]
-        },
-        "3": {
-            "projName": "Jippy",
-            "nameList": [
-                "Chloe Lim Xinying",
-                "Kyal Sin Min Thet",
-                "Leong See Leng",
-                "Wang Haoyang",
-                "Chloe Lim Xinying",
-                "Kyal Sin Min Thet",
-                "Leong See Leng",
-                "Wang Haoyang"
+                "Sovasaria Isha",
+                "Mattheus Cheong Chi En"
             ]
         },
         "4": {
-            "projName": "OmniCAT",
+            "projName": "Sessions",
             "nameList": [
-                "Lok Jian Ming",
-                "Ong Pei Cong Lester",
-                "Shirshajit Sen Gupta",
-                "Lok Jian Ming",
-                "Shirshajit Sen Gupta"
-            ]
-        }
-    },
-    "CS4350": {
-        "1": {
-            "projName": "OverStory",
-            "nameList": [
-                "Abola Juan Pablo Uichanco",
-                "Cao Keyi",
-                "Chiu Chi Kuan",
-                "Leon Lim Way Zhen",
-                "Rishi Vinay Chousalkar",
-                "Leon Lim Way Zhen"
-            ]
-        },
-        "2": {
-            "projName": "Stay in SHAPE",
-            "nameList": [
-                "Cheam Jia Wei",
-                "Macapagal Eila Trenel Hernandez",
-                "Muhammad Mahathir B Norrahim",
-                "Ong Wee, Marcus",
-                "Cheam Jia Wei"
-            ]
-        },
-        "3": {
-            "projName": "Rich Within Reach",
-            "nameList": [
-                "Lee Xinyee",
-                "Lim Zhen Lun Bryan",
-                "Tan Juay Hee",
-                "Tu Weile",
-                "Victor Ong Wei De"
-            ]
-        },
-        "4": {
-            "projName": "Rapture",
-            "nameList": [
-                "Lim Zhe Rui",
-                "Marcus Low Hui Yu",
-                "Ng Qi Ting",
-                "Quek Sze Long",
-                "Tang Hao Liang",
-                "Marcus Low Hui Yu",
-                "Ng Qi Ting",
-                "Tang Hao Liang"
+                "Gary Axel Muliyono",
+                "Lee Kai Xuan"
             ]
         },
         "5": {
-            "projName": "CryoSurgery Simulator",
+            "projName": "C compiler",
             "nameList": [
-                "Chen Jiarui",
-                "Julia Christy Purba",
-                "Lau Rui Han",
-                "Ryo Hilmawan",
-                "Lau Rui Han",
-                "Ryo Hilmawan"
+                "Do Trong Uiy",
+                "Choo Yu Xiang, Morpheus"
             ]
         },
         "6": {
-            "projName": "NUSims",
+            "projName": "CSE machine",
             "nameList": [
-                "Arthur Wuhrlin",
-                "Yu Wenli",
-                "Zhang Rongqi",
-                "Yu Wenli"
-            ]
-        }
-    },
-    "IS4103": {
-        "1": {
-            "projName": "PortConnect: Port Management Information System",
-            "nameList": [
-                "Chia Ang Yong",
-                "Zhao Rune Chi",
-                "Jester Tan Meng Zong",
-                "Lim Le Yi Eunice",
-                "Quek Xiang"
-            ]
-        },
-        "2": {
-            "projName": "SupremeFit",
-            "nameList": [
-                "Ansley Tay Jie En",
-                "Han Kai Xiang",
-                "Jamie Ho",
-                "Koo Xin Qing Kordelia",
-                "Ng Le Xuan"
-            ]
-        },
-        "3": {
-            "projName": "Repair.sg",
-            "nameList": [
-                "Mak Tingxu, Stanley",
-                "Nevan Ng Ki Herng",
-                "Ong Chang Hern Keith",
-                "Megan Poh Gin Yee",
-                "Wong Kin Mun",
-                "Yong Xue Min Grace"
-            ]
-        },
-        "4": {
-            "projName": "\ud83c\udf7d\ufe0f\u00a0Hungry? EatLah! \ud83c\udf7d\ufe0f",
-            "nameList": [
-                "Ang Rachel",
-                "Cally-Anne R Chee Jia Rong",
-                "Chris Chan Wei Zhang",
-                "Leo Hernando Tan",
-                "Lim Rui Jia",
-                "Tay Jean Yee",
-                "Yak Jun Yan James"
-            ]
-        },
-        "5": {
-            "projName": "GudFood",
-            "nameList": [
-                "Andre Heng Zhe Hau",
-                "Chang Han Yang",
-                "Choo Kok Jeng Terence",
-                "Jamie Ho Pui Yin",
-                "Spring Lim Jiaying"
-            ]
-        },
-        "6": {
-            "projName": "IGNITE",
-            "nameList": [
-                "Lee Jia Wei",
-                "Han Wei Tat",
-                "Lim Shean Lit, Justin",
-                "Muhamad Syafiq Akmal Bin Supri",
-                "Tan Shi Yan, Norman",
-                "Yip Rong Yu, Natasha"
+                "Alson Lee Jian Yang",
+                "Yang Boxiang"
             ]
         },
         "7": {
-            "projName": "ready to jalanJalan?",
+            "projName": "Notebooks",
             "nameList": [
-                "Cheryl Ang",
-                "Heng Yi Jie",
-                "Foo Zhi Sheng",
-                "Higashi Shion",
-                "Liu Yan Qin",
-                "Srivarshini Saravanaperumal",
-                "Tan Xian Jin, Nicholas"
+                "Desmond Wong Hui Sheng",
+                "Huang Kaijuan Joulene"
             ]
         },
         "8": {
-            "projName": "Go Touch Grass",
+            "projName": "Badges and achievements",
             "nameList": [
-                "Ang Ky-Sheng, Adriel",
-                "Huang Tianhui",
-                "Kee Wei Kuang",
-                "Jin Yuen",
-                "Long Xin Yi",
-                "Mah Hoy Ping, Kenneth"
+                "Foo Fang Han",
+                "Teh Ming Wei"
             ]
         },
         "9": {
-            "projName": "PandaPay BNPL Platform",
+            "projName": "Leaderboard",
             "nameList": [
-                "Angela Wong Si Qi",
-                "Chin Zhen Yu",
-                "Khoo Jing Zhi",
-                "Lim Wee Kiat",
-                "Tay Ying Xu Dempster",
-                "Angela Wong Si Qi",
-                "Chin Zhen Yu",
-                "Lim Wee Kiat",
-                "Tay Ying Xu Dempster"
+                "Si Wen Xuan, Terry",
+                "Toh Yi Zhong"
             ]
         },
         "10": {
-            "projName": "Travel Together",
+            "projName": "LSP implementations for VS Code",
             "nameList": [
-                "Glendon Ong Chong Yu",
-                "Tay Zhi Yi",
-                "Peh Boon Wah",
-                "Lim Hong Kai Shawn",
-                "Chng Wee Chee",
-                "Andre Heng Zhe Hau",
-                "Glendon Ong Chong Yu",
-                "Muhammad Dzikril Hakim Bin Kasmin",
-                "Peh Boon Wah",
-                "Pung Kah Jyun",
-                "Tan Hui Xin Sharlynn",
-                "Wong Jing Wen"
+                "Aloysius Goo Shao Quan"
             ]
         },
         "11": {
-            "projName": "Lepark",
+            "projName": "Programming components in Source Academy Game",
             "nameList": [
-                "Aaron Foo Yu Rong",
-                "Micaella Deniega Ilagan",
-                "Nelson Choo Jia Wei",
-                "Ong Jing Ru, Elysia",
-                "Tay Alan",
-                "Yong Wei Ning"
+                "Justin Cheng Ming Hearn",
+                "Koh Wai Kei"
             ]
         },
         "12": {
-            "projName": "ParkLah!",
+            "projName": "SICP JS Internationalization",
             "nameList": [
-                "Chaing Choon Hoe",
-                "Chelsea Yap Yixian",
-                "Chow Yee Sen",
-                "Shannon Woo Shu En"
+                "He Haodong",
+                "Hon Yi Hao"
             ]
         },
         "13": {
-            "projName": "BiteBack!",
+            "projName": "AI bots for CS1101S and SICP JS",
             "nameList": [
-                "Chloe Tjong Shan Mei",
-                "Choi Ji Won",
-                "Feng Jiamin",
-                "Lynette Tan"
+                "Roger Lim Bo Zu",
+                "Javier Enrique Wong"
+            ]
+        },
+        "14": {
+            "projName": "Scheme edition of SICP",
+            "nameList": [
+                "Jerome Goh Yue En",
+                "Jiang Zichen"
+            ]
+        },
+        "15": {
+            "projName": "FFT for Sound Processing",
+            "nameList": [
+                "Tran Gia Huy",
+                "Stuart Lim Yi Xiong"
+            ]
+        },
+        "16": {
+            "projName": "Exam mode for Source Academy",
+            "nameList": [
+                "Florian Viorel Tanely",
+                "Khor Kah Seng"
+            ]
+        },
+        "17": {
+            "projName": "brwne",
+            "nameList": [
+                "Simantak Vaibhavkumar Dabhade",
+                "Rahul Venkata Mallavarapu"
+            ]
+        },
+        "18": {
+            "projName": "Pie in Source Academy",
+            "nameList": [
+                "Zhang Qixiang",
+                "Li Daoxin",
+                "Ding Feng"
             ]
         }
     },
-    "IS4250": {
+    "CS3203": {
         "1": {
-            "projName": "Medication Delivery Service Management System for Pharmacy Department",
+            "projName": "TravelWise",
             "nameList": [
-                "Alwin Ng Jun Wei",
-                "Lee Jia Wei",
-                "Lim Hong Kai Shawn",
-                "Heng Yi Jie"
+                "Nam Dohyun",
+                "Gerald Neo Ee Ren",
+                "Toh Heng Xing",
+                "Sivakumar Aishvarya"
             ]
         },
         "2": {
-            "projName": "MyEyeBuddy: Knowledge Aggregator for the Low-Vision and Visually Impaired (LV/VI)",
+            "projName": "IamDB",
             "nameList": [
-                "Ebenezer Denzel Shemaiah",
-                "Sng Wei Zhen Shanice",
-                "Priskila Rebecca Panggabean",
-                "Bernice Saw Sze Ting"
+                "Park Kwang Joo",
+                "Chee Wei Xiong Clifton",
+                "An Eu Jin",
+                "Ong Weng Qi",
+                "Nam Harin"
             ]
         },
         "3": {
-            "projName": "Reimagining the patient journey: Improving the management of private patients",
+            "projName": "Just Yap!",
             "nameList": [
-                "Chng Wee Chee",
-                "Jamie Ho",
-                "Low Weisheng Giovanni",
-                "Megan Poh",
-                "Michelle Kang"
+                "Albert Ariel Widiaatmaja",
+                "Aishwarya Hariharan Iyer",
+                "Yang Xiang",
+                "Eugene Tang Kangjie"
+            ]
+        }
+    },
+    "CS3217": {},
+    "CS3247": {
+        "1": {
+            "projName": "Unknown",
+            "nameList": [
+                "Chua Wei En Zechary",
+                "Cliff Koes",
+                "Lim Jun Han, Alvin",
+                "Porteous Hannah",
+                "Royden Soh Wei Jun",
+                "Soon Weng Foon Timothy"
+            ]
+        },
+        "2": {
+            "projName": "Unknown",
+            "nameList": [
+                "Goh Wee Liang Aidan",
+                "Mahadhir Bin Mohd Ismail",
+                "Mohammad Tahir Bin Hairul",
+                "Tan Cheong Hsien Ryan",
+                "Wen Shau Fu",
+                "Yeo Bing Teck, George"
+            ]
+        },
+        "3": {
+            "projName": "Unknown",
+            "nameList": [
+                "Guo Jingxiang",
+                "Liang Yifan",
+                "Liu Yiwei",
+                "Ong Jia Jun Clif",
+                "Sun Aleck Bowen",
+                "Xu Zhaohua"
             ]
         },
         "4": {
-            "projName": "Emergency Pharmacy Roster Planning",
+            "projName": "Unknown",
             "nameList": [
-                "Roshan Zabiullah",
-                "Alwin Ng Jun Wei",
-                "Vina Tan",
-                "Tan Kylie",
-                "Tan Shu Xian Vina",
-                "Teo Yee Hui"
+                "Aw Ming Yi",
+                "Dinh Tran Hai Chien",
+                "Li Yingming",
+                "Teo Xu Kai",
+                "Thant Aung Htet Nyan"
             ]
         },
         "5": {
-            "projName": "Anaesthesiology Residency Program\u2019s Rostering System",
+            "projName": "Unknown",
             "nameList": [
-                "Lim Jun Ying",
-                "Srivarshini Saravanaperumal",
-                "Clarice Lim Pey Wen",
-                "Muhammad Dzikril Hakim Bin Kasmin",
-                "Pung Kah Jyun"
+                "Edwin Zheng Yuanyi",
+                "Felicia Beatrice Budiawan Lauw",
+                "Hsieh Tyler Harrison",
+                "Kenvyn Kwek Shiu Chien",
+                "Lee Yan Han",
+                "Livia Michelle Iskandar Leo"
             ]
         },
         "6": {
-            "projName": "ACTFast: Enhancing Antibiotic Combination Testing (ACT) Service at Singapore General Hospital (SGH)",
+            "projName": "Unknown",
             "nameList": [
-                "Adele Ng",
-                "Anika Rajbhandary",
-                "Sim Zi Ying"
+                "Ethan Jed Tan Jia En",
+                "Fu Ming Jun, Dominic",
+                "Jonathan Wiguna",
+                "Low Jun Yan, Whelan",
+                "Rayson Chia Hao Zhe",
+                "Zico"
             ]
         },
         "7": {
-            "projName": "Dashboard Creation for Medicolegal Case Management Unit",
+            "projName": "Unknown",
             "nameList": [
-                "Lee Jia Wei",
-                "Jin Yuen",
-                "Chng Wee Chee",
-                "Wong Jing Wen"
+                "Lee Thien My",
+                "Lim Xiu Jia",
+                "Ng Wei Chong Javier",
+                "Nicholas Chan Kai Jin",
+                "Pearl Twe",
+                "Wu Jingya"
             ]
         },
         "8": {
-            "projName": "Streamlining Wardstock Top Up and Expiry Check",
+            "projName": "Unknown",
             "nameList": [
-                "Gerald Ho Shao Xian",
-                "Goh Jing Yong, Darryl",
-                "Kelly Ng Kaiqing",
-                "Ebenezer Denzel Shemaiah",
-                "Nguyen Ha My"
+                "Gerard Jeremiah Matthew",
+                "Lai Yiwen",
+                "Li Chengzhen",
+                "Lin Yuxiang",
+                "Ma Yirui",
+                "Zhang Puyu"
             ]
         },
         "9": {
-            "projName": "Safety Steps: A Medication Adventure",
+            "projName": "Unknown",
             "nameList": [
-                "Shiqi Tan",
-                "Parathan S/O Arasu"
+                "Ang Song Yee",
+                "Chua Zen Khoon",
+                "Loh Jin Hun",
+                "Tan Hong Jun"
             ]
         },
         "10": {
-            "projName": "Customisable Inventory Management System",
+            "projName": "Unknown",
             "nameList": [
-                "Michelle Kang",
-                "Wu Hanjun",
-                "Muhammad Dzikril Hakim Bin Kasmin",
-                "Tan Shiqi",
-                "Soh Zuan Azumi"
+                "Li Xiangyi",
+                "Liu Jiabao",
+                "Lu Shuyu",
+                "Luo Haoyu",
+                "Wang Yuyang"
             ]
         },
         "11": {
-            "projName": "Reimagining Case Registration - Enhancing New Case Registration for NDCS",
+            "projName": "Unknown",
             "nameList": [
-                "Andre Heng Zhe Hau",
-                "Poh Mao Xin",
-                "Jamie Ho Pui Yin",
-                "Kohorst Caspar Holch",
-                "Sim Zi Ying",
-                "Megan Poh Gin Yee"
+                "Chen Xin-An",
+                "Ng Wei Ming",
+                "Nicholas Chong Yao Xuan",
+                "Tham Yao Xiang",
+                "Yong Jun Xi",
+                "Yu Lexuan"
             ]
         },
         "12": {
-            "projName": "SMART ACT: Enhancing Antibiotic Testing Efficiency",
+            "projName": "Unknown",
             "nameList": [
-                "Tan Kylie",
-                "Leong Wen Ting"
+                "Chen Muzi",
+                "Hill Brennen Alexander",
+                "Hoang Huu Chinh",
+                "Jawad Afthab"
+            ]
+        },
+        "13": {
+            "projName": "Unknown",
+            "nameList": [
+                "Ng Gee Kin, Nicole",
+                "Park Youngseo",
+                "Tan Jun Jia Cedric",
+                "Yang Katie Can"
+            ]
+        },
+        "14": {
+            "projName": "Unknown",
+            "nameList": [
+                "Wang Zihan"
+            ]
+        },
+        "15": {
+            "projName": "Unknown",
+            "nameList": [
+                "Carsten Joe Ng",
+                "Lu Bolin",
+                "Lu Ruijian",
+                "Malhotra Arnav",
+                "Puar Kiat Win"
+            ]
+        }
+    },
+    "CS4240": {
+        "1": {
+            "projName": "Unknown",
+            "nameList": [
+                "Aw Joey",
+                "Chen Xiaoyang",
+                "Ma Yuehan",
+                "Ng Wei Chong Javier",
+                "Song Mengfei"
+            ]
+        },
+        "2": {
+            "projName": "StomaSim",
+            "nameList": [
+                "Lim Zhe Rui",
+                "Niik Seah",
+                "Roy Julien Michael",
+                "Yuan Hao",
+                "Zhang Mengjie",
+                "Cui Shen Yi"
+            ]
+        },
+        "3": {
+            "projName": "Unknown",
+            "nameList": [
+                "Arora Aryan",
+                "Bryan Lim Jing Xiang",
+                "Heng Liang",
+                "Li Sophia Xinjie",
+                "May Thinzar Naing",
+                "Yuvaraj Kumaresan"
+            ]
+        },
+        "4": {
+            "projName": "Unknown",
+            "nameList": [
+                "Tan Changjie"
+            ]
+        },
+        "5": {
+            "projName": "Unknown",
+            "nameList": [
+                "Garcia Andreas Johan",
+                "Kim Jin Hee",
+                "Lee Jia Ren",
+                "Liu Jihao Bryan",
+                "Tay Jia Ying",
+                "Wong Wei Ting"
+            ]
+        },
+        "6": {
+            "projName": "Unknown",
+            "nameList": [
+                "Ang Jun Yang",
+                "Guo Jingxiang",
+                "Ku Zi-Yi Elijah",
+                "Shen Zhennan",
+                "Xu Zhaohua",
+                "Yang Kai"
+            ]
+        },
+        "7": {
+            "projName": "MELTDOWN",
+            "nameList": [
+                "Chong Xiao Xuan",
+                "Florentiana Yuwono",
+                "Melissa Anastasia Harijanto",
+                "Xu Yi",
+                "Xu Yi"
+            ]
+        },
+        "8": {
+            "projName": "Unknown",
+            "nameList": [
+                "Desvignes Servane Ines",
+                "Lavanya Mishra",
+                "Liu Lulu Jialu",
+                "Mukherjee Arnab",
+                "Tang Kyn-Han",
+                "Thant Aung Htet Nyan"
+            ]
+        },
+        "9": {
+            "projName": "Unknown",
+            "nameList": [
+                "Chen Jiarui",
+                "Julia Christy Purba",
+                "Ryo Hilmawan"
+            ]
+        }
+    },
+    "CS4248": {
+        "1": {
+            "projName": "Team 14: Machine translation with ambiguous words in context.",
+            "nameList": [
+                "A0313215W",
+                "A0233414R",
+                "Yeo Zi Yi",
+                "A0266070J",
+                "Justin Cheah Yun Fei"
+            ]
+        },
+        "2": {
+            "projName": "Team 25: Sarcastic news headlines (with their own Instagram dataset).",
+            "nameList": [
+                "Benson Ang Wei Kiat",
+                "Aslam",
+                "Choo Weng Yan",
+                "Edric Boby Tri Raharjo",
+                "Chen Qun",
+                "Tan Ying Ting"
+            ]
+        },
+        "3": {
+            "projName": "Team 33: Emoji compositions with visual information.",
+            "nameList": [
+                "Zhang Jiasheng",
+                "Bao Mingyang",
+                "Wang Yucheng",
+                "Zhu Tianyi"
+            ]
+        },
+        "4": {
+            "projName": "Team 35: Emoji compositions with visual information.",
+            "nameList": [
+                "Chow Jie, Seth",
+                "Hung Ming Kin",
+                "Poon Yip Hang, Ryan",
+                "Leow Wen Hong Timothy",
+                "Li Chengyue",
+                "Eng Yu Han"
+            ]
+        },
+        "5": {
+            "projName": "Team 41: Can emojis be used to capture meaning?",
+            "nameList": [
+                "Jin Chun",
+                "Luca Bauman",
+                "Low Keng Hoong, Warren",
+                "Yao Hejun",
+                "Zhang Mengjie",
+                "Ma Jiajun"
+            ]
+        },
+        "6": {
+            "projName": "Team 8: Mixture of Experts in Sarcasm Detection",
+            "nameList": [
+                "Vigneshwar Hariharan",
+                "Vaishnav Muralidharan",
+                "Owen Yap Yuhan",
+                "Zhao Keyi",
+                "Zhou Pengji",
+                "Yang Leyuan"
+            ]
+        },
+        "7": {
+            "projName": "Team 3: Code Embeddings for RAG",
+            "nameList": [
+                "Gan Pang Yen",
+                "Lim Jian Hong",
+                "Owen Yeo Le Yang",
+                "Seah Yi Xun Ryo",
+                "Jethro Sim Sheng Yang"
+            ]
+        },
+        "8": {
+            "projName": "Team 22: Using Influence Functions for LLM Unlearning",
+            "nameList": [
+                "Alagappan Ramanathan",
+                "Ramu Rithik Vijay",
+                "Lei Zhenyu",
+                "Tan Xinhao",
+                "Wang Shijia"
+            ]
+        },
+        "9": {
+            "projName": "Team 11: Distribution-Aware Sarcasm Detection",
+            "nameList": [
+                "Yu Jiali",
+                "Liang Wenzhong",
+                "Mu Zhaoyu",
+                "Tyagi Atharva",
+                "Bimbisariye Priyansh",
+                "Yang Yibai"
+            ]
+        },
+        "10": {
+            "projName": "4 ConceptNet Path Quality Prediction",
+            "nameList": [
+                "Caleb Chan Jia Le",
+                "Fong Yi Yong Calvin",
+                "Nguyen Khoi Nguyen",
+                "Luo Jiale",
+                "Lu Haomeng"
             ]
         }
     },
     "MComp-FYP": {
         "1": {
-            "projName": "KathakalAI",
+            "projName": "Power management for Prahu Matahari",
             "nameList": [
-                "Kavan Tan",
-                "Ng Zi Xuan"
+                "Loick\ufffdAntoine Le Goff"
             ]
         },
         "2": {
-            "projName": "Learning platform for Data Engineering",
+            "projName": "A CSE machine for Python",
             "nameList": [
-                "Lim Jia Yi Venus"
+                "Wang Yuyang"
             ]
         },
         "3": {
-            "projName": "CP2107 - Automated Generation & Analysis of Cyberattack Dataset",
+            "projName": "Improving Types in the Source Academy",
             "nameList": [
-                "Lee Chun Hao",
-                "Soh Woon Hao Kenneth"
+                "Toh Li Heng"
             ]
         },
         "4": {
-            "projName": "LLM-Guided Design and Development Reflections and LLM-Assisted Game Play-Testing",
+            "projName": "A Software Architecture for Browser-based Programming Language Implementation",
             "nameList": [
-                "Quek Sze Long",
-                "Tan Li Xin",
-                "Koh Tee Sing Newton"
+                "Samuel\ufffdTan"
             ]
         },
         "5": {
-            "projName": "TheQuantPrep",
+            "projName": "Go in Source Academy",
             "nameList": [
-                "Shah Devansh Apoorva",
-                "Shah Devansh Apoorva"
+                "Lee Cheng Da"
+            ]
+        },
+        "6": {
+            "projName": "Java in Source Academy",
+            "nameList": [
+                "Kale Aprup Vinay"
+            ]
+        },
+        "7": {
+            "projName": "Source Academy as Visual Studio Code Extension",
+            "nameList": [
+                "Tiang Hui Zheng"
+            ]
+        },
+        "8": {
+            "projName": "Unknown",
+            "nameList": [
+                "Sun Ruoxin"
+            ]
+        },
+        "9": {
+            "projName": "Unknown",
+            "nameList": [
+                "Wu Lezheng",
+                "Lee Care Gene"
+            ]
+        },
+        "10": {
+            "projName": "Unknown",
+            "nameList": [
+                "Koh Tee Sing Newton",
+                "Yu Wenli",
+                "Tan Li Xin"
+            ]
+        },
+        "11": {
+            "projName": "Unknown",
+            "nameList": [
+                "Troy Tim (Zhang Zhuoyu)",
+                "Ng Qi Ting",
+                "Li Tianze"
             ]
         }
     }
