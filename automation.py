@@ -11,13 +11,13 @@ for track in theJSON:
         nameDCT[person["_id"]] = person["name"]
     trackCODE = track["code"]
     trackNAME = track["name"]
-    f2.write(f"# {trackCODE} {trackNAME} \n")
+    f2.write(f"# {trackCODE} {trackNAME} \n\n")
     for project in track["projects"]:
         projectNAME = project["name"]
         projectVIDEOURL = project["videoLink"]
         projectMEMBERS = list(map(lambda x: nameDCT[x], project["members"]))
         projectNUMBER = project["refId"]
         f2.write(f"{trackCODE}-{projectNUMBER}: {projectNAME}\n")
-        csvwriter.writerow([trackCODE, projectNUMBER, projectNAME, projectVIDEOURL, ";".join(projectMEMBERS), ""])
+        csvwriter.writerow([trackCODE, projectNUMBER, projectNAME, projectVIDEOURL, "; ".join(projectMEMBERS), ""])
 f1.close()
 f2.close()
