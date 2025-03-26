@@ -10,7 +10,7 @@ jsonDCT = {}
 for moduleCode in moduleCodes:
     f1.write(f"# {moduleCode} project names\n")
     baseURL = f"https://uvents.nus.edu.sg/event/26th-steps/module/{moduleCode}/project/"
-    jsonDCT[moduleCode] = []
+    jsonDCT[moduleCode] = {}
     k = 1
     while True:
         try:
