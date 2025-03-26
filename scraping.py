@@ -3,7 +3,7 @@ import json
 from bs4 import BeautifulSoup
 from datetime import datetime
 
-moduleCodes = ["CS3203","CS3216","CS4350","IS4103","IS4250","MComp-FYP"]
+moduleCodes = ["CP3108","CS3203","CS3217","CS3247","CS4240","CS4248","MComp-FYP"]
 f1 = open("project names.md","w", encoding="utf-8")
 f2 = open("project videos.md", "w", encoding="utf-8")
 f3 = open("project-details.json", "w", encoding="utf-8")
@@ -11,7 +11,7 @@ jsonDCT = {}
 for moduleCode in moduleCodes:
     f1.write(f"# {moduleCode} project names\n")
     f2.write(f"# {moduleCode} project videos\n")
-    baseURL = f"https://uvents.nus.edu.sg/event/25th-steps/module/{moduleCode}/project/"
+    baseURL = f"https://uvents.nus.edu.sg/event/26th-steps/module/{moduleCode}/project/"
     jsonDCT[moduleCode] = {}
     k = 1
     while True:
