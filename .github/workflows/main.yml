@@ -30,7 +30,7 @@ jobs:
 
       # Step 4: Run the Python script
       - name: Run the script
-        run: python scraping.py
+        run: python automation.py
 
       # Step 5: Commit and push output file to GitHub
       - name: Commit and push output file to GitHub
