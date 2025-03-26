@@ -10,7 +10,7 @@ jsonDCT = {}
 for moduleCode in moduleCodes:
     f1.write(f"# {moduleCode} project names\n")
     baseURL = f"https://uvents.nus.edu.sg/event/26th-steps/module/{moduleCode}/project/"
-    jsonDCT[moduleCode] = {}
+    jsonDCT[moduleCode] = []
     k = 1
     while True:
         try:
@@ -30,7 +30,7 @@ for moduleCode in moduleCodes:
                 studentList1 = div3.findAll('li')
                 finalStudentList = list(set(map(lambda e: e.text.strip().title(), studentList1)))
                 f1.write(f"{moduleCode}-{k}: {projName}\n\n")
-                jsonDCT[moduleCode][k] = {'projCode': f'{moduleCode}-{k}', 'projName': projName, 'nameList': finalStudentList, 'videoLink': vlink}
+                jsonDCT[moduleCode].append({'projCode': f'{moduleCode}-{k}', 'projName': projName, 'nameList': finalStudentList, 'videoLink': vlink})
                 k += 1
             else:
                 break
