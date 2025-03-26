@@ -1,23 +1,9 @@
 # What is this?
 
-This was originally built for the 26th STePS, and was originally intended to provide a list of projects. However, I have since expanded the webscraper's ability to find project videos and even group members. 
+The 25th STePS had this autoscraper to automate document generation workflows.
 
-All data I obtained is taken from the [event website](https://uvents.nus.edu.sg/event/26th-steps) **as-is**, which means any typos or mistakes on the site, will be reflected on the data provided here.
+This time round... I decided to extend this to the 26th STePS because there may be even more groups to deal with! In fact, this edition has 69 teams compared to 43 teams in the previous iteration.
 
-# Why is this made?
+Since NUS Computing will celebrate some anniversary this time round, they might choose to ramp up the number of teams exhibiting with more courses on show. That means a lot of work for staff members!
 
-> "A previous iteration of STePS had 120 exhibitors, taking up the entire School of Computing"
->
-> \- Annad, 2024
-
-Unfortunately, as easy and copying and pasting may seem, doing so for a large number of projects would be exceptionally difficult to do so, especially to **multiple documents** and that leads to wasted time and many people being roped in just to do this task.
-
-Me, the tedium hating person, decided to create this webscraper that provides ready-made reports and even a JSON export for *Google Apps Scripts* to autopopulate documents.
-
-# Any limitations to be aware of?
-
-Well, for now I cannot download YouTube videos, so good luck doing 120 project videos (unlikely).
-
-Anyway, I do have reservations downloading videos from YouTube (who knows? there's degradation of quality, or maybe even malware on the downloaded files). Might as well ask groups to drop it off in a common folder.
-
-Also, the 26th STePS website may change in terms of format, so what works here, may not work in future events. Just fork this out, and modify according to what works.
+Therefore, to ease that workflow, I decided to create a central webscraper where people can retrive the needful.
