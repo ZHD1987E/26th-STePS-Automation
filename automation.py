@@ -11,7 +11,7 @@ for track in theJSON:
         nameDCT[person["_id"]] = person["name"]
     trackCODE = track["code"]
     trackNAME = track["name"]
-    f2.write(f"# {trackCODE} {trackNAME}\n")
+    f2.write(f"# {trackCODE} {trackNAME} \n")
     for project in track["projects"]:
         projectNAME = project["name"]
         projectVIDEOURL = project["videoLink"]
