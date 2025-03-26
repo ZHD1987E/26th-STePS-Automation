@@ -1,8 +1,8 @@
 # What is this?
 
-This was originally built for the 25th STePS, and was originally intended to provide a list of projects. However, I have since expanded the webscraper's ability to find project videos and even group members. 
+This was originally built for the 26th STePS, and was originally intended to provide a list of projects. However, I have since expanded the webscraper's ability to find project videos and even group members. 
 
-All data I obtained is taken from the [event website](https://uvents.nus.edu.sg/event/25th-steps) **as-is**, which means any typos or mistakes on the site, will be reflected on the data provided here.
+All data I obtained is taken from the [event website](https://uvents.nus.edu.sg/event/26th-steps) **as-is**, which means any typos or mistakes on the site, will be reflected on the data provided here.
 
 # Why is this made?
 
