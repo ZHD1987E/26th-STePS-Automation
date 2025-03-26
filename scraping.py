@@ -30,13 +30,13 @@ for moduleCode in moduleCodes:
                 studentList1 = div3.findAll('li')
                 finalStudentList = list(set(map(lambda e: e.text.strip().title(), studentList1)))
                 f1.write(f"{moduleCode}-{k}: {projName}\n\n")
-                jsonDCT[moduleCode].append({'projCode': f'{moduleCode}-{k}', 'projName': projName, 'nameList': finalStudentList, 'videoLink': vlink})
+                jsonDCT[moduleCode][f'{moduleCode}-{k}'] = {'projCode': f'{moduleCode}-{k}', 'projName': projName, 'nameList': finalStudentList, 'videoLink': vlink}
                 k += 1
             else:
                 break
         except Exception as e:
             f1.write(f"An error somehow occured. {e}\n")
-            f2.write(f"An error somehow occured. {e}\n")
+            f3.write(f"An error somehow occured. {e}\n")
             break
 f1.write(f"Last updated: {datetime.now()}")
 json.dump(jsonDCT, f3, indent = 4)
