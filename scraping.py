@@ -28,7 +28,7 @@ for moduleCode in moduleCodes:
                             vlink = link['href']
                 projName = div1.find('h3').text.strip()
                 studentList1 = div3.findAll('li')
-                finalStudentList = set(map(lambda e: e.text.strip().title(), studentList1))
+                finalStudentList = list(set(map(lambda e: e.text.strip().title(), studentList1)))
                 f1.write(f"{moduleCode}-{k}: {projName}\n\n")
                 jsonDCT[moduleCode][k] = {'projCode': f'{moduleCode}-{k}', 'projName': projName, 'nameList': finalStudentList, 'videoLink': vlink}
                 k += 1
