@@ -40,7 +40,7 @@ jobs:
           git config --global user.email "zhanghaodong101@outlook.com"
           
           # Add the output file(s) to the repository
-          git add "project names.md" "project-details.json"
+          git add "26th-steps-data.csv" "26th-steps-projectnames.md"
 
           # Commit the changes
           git commit -m "Updating files automatically every hour"
