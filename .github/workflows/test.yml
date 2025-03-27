@@ -34,7 +34,7 @@ jobs:
                 git config --global user.name "not ZHD1987E"
                 git config --global user.email "zhanghaodong101@outlook.com"
 
-                git add "test.mp4"
+                git add "videos/test.mp4"
                 git diff --quiet || git commit -m "Testing FFMPEG download capabilities"
                 git push -f origin main
               env:

@@ -2,7 +2,7 @@ from pytubefix import YouTube
 import ffmpeg
 import os
 
-testVideo = YouTube("https://www.youtube.com/watch?v=DaZK1GJVy44")
+testVideo = YouTube("https://www.youtube.com/watch?v=DaZK1GJVy44", use_po_token=True)
 testVidStream = testVideo.streams.filter(resolution="1080p").first()
 testAudStream = testVideo.streams.filter(only_audio=True).order_by('abr').desc().first()
 testVidStream.download(filename="temp1a.webm")
