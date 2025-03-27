@@ -1,11 +1,9 @@
 name: Run Python Script and Upload Output to Repo
 
 on:
-  push:
-    branches:
-      - main  # Trigger on pushes to the main branch
+  workflow_dispatch:
   schedule:
-    - cron: '0 */12 * * *'  # Optionally, schedule to run daily at 2 a.m.
+    - cron: '0 */12 * * *'
 
 jobs:
   run_script:
@@ -40,7 +38,7 @@ jobs:
           git config --global user.email "zhanghaodong101@outlook.com"
           
           # Add the output file(s) to the repository
-          git add "26th-steps-data.csv" "26th-steps-projectnames.md"
+            git add "26th-steps-data.csv" "26th-steps-projectnames.md" "videos/*.mp4"
 
           # Commit the changes
           git diff --quiet || git commit -m "Updating files automatically every 12 hours"
