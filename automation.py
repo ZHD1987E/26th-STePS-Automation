@@ -1,10 +1,10 @@
 import requests
 import csv
 theJSON = requests.get("https://uvents.nus.edu.sg/api/event/26th-steps/moduleTracks").json()
-f1 = open("26th-steps-data.csv", "w", newline="")
+f1 = open("26th-steps-data.csv", "w", newline="", encoding = "utf-8")
 csvwriter = csv.writer(f1)
-f2 = open("26th-steps-projectnames.md", "w")
-f3 = open("26th-steps-videolinks.txt", "w")
+f2 = open("26th-steps-projectnames.md", "w", encoding = "utf-8")
+f3 = open("26th-steps-videolinks.txt", "w", encoding = "utf-8")
 csvwriter.writerow(["Track", "Project Number", "Project Name", "Video Link", "Students", "Award"])
 for track in theJSON:
     nameDCT = {}

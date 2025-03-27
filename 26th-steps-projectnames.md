@@ -52,7 +52,7 @@ CS3247-3: Unknown
 
 CS3247-4: Unknown 
 
-CS3247-5: Unknown 
+CS3247-5: Runebound 
 
 CS3247-6: Unknown 
 
@@ -79,7 +79,7 @@ CS4240-1: Unknown
 
 CS4240-2: StomaSim 
 
-CS4240-3: Unknown 
+CS4240-3: VRCare 
 
 CS4240-4: Unknown 
 
@@ -108,7 +108,7 @@ CS4248-6: Team 8: Mixture of Experts in Sarcasm Detection
 
 CS4248-7: Team 3: Code Embeddings for RAG 
 
-CS4248-8: Team 22: Using Influence Functions for LLM Unlearning 
+CS4248-8: <Change> Team 22: Using Influence Functions for LLM Unlearning 
 
 CS4248-9: Team 11: Distribution-Aware Sarcasm Detection 
 
