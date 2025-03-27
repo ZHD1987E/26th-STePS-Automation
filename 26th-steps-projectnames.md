@@ -83,7 +83,7 @@ CS4240-3: VRCare
 
 CS4240-4: Unknown 
 
-CS4240-5: Unknown 
+CS4240-5: Immersi-Fit 
 
 CS4240-6: Unknown 
 
