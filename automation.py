@@ -1,12 +1,10 @@
 import requests
 import csv
-from pytubefix import YouTube
-import os
-import ffmpeg
 theJSON = requests.get("https://uvents.nus.edu.sg/api/event/26th-steps/moduleTracks").json()
 f1 = open("26th-steps-data.csv", "w", newline="")
 csvwriter = csv.writer(f1)
 f2 = open("26th-steps-projectnames.md", "w")
+f3 = open("26th-steps-videolinks.txt", "w")
 csvwriter.writerow(["Track", "Project Number", "Project Name", "Video Link", "Students", "Award"])
 for track in theJSON:
     nameDCT = {}
@@ -18,9 +16,12 @@ for track in theJSON:
     for project in track["projects"]:
         projectNAME = project["name"]
         projectVIDEOURL = project["videoLink"]
+        if projectVIDEOURL:
+            f3.write(f"{trackCODE}-{project['refId']}: {projectVIDEOURL}\n")
         projectMEMBERS = list(map(lambda x: nameDCT[x], project["members"]))
         projectNUMBER = project["refId"]
         f2.write(f"{trackCODE}-{projectNUMBER}: {projectNAME} \n\n")
         csvwriter.writerow([trackCODE, projectNUMBER, projectNAME, projectVIDEOURL, "; ".join(projectMEMBERS), ""])
 f1.close()
 f2.close()
+f3.close()
