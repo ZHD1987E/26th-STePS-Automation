@@ -24,6 +24,7 @@ for track in theJSON:
         csvwriter.writerow([trackCODE, projectNUMBER, projectNAME, projectVIDEOURL, "; ".join(projectMEMBERS), ""])
         if projectVIDEOURL != "":
             try:
+                print("now downloading video...")
                 yt = YouTube(projectVIDEOURL) # assuming ALL project videos are YouTube links
                 videoStream = yt.streams.order_by('resolution').desc().first()
                 audioStream = yt.streams.filter(only_audio=True).order_by('abr').desc().first()
@@ -33,6 +34,7 @@ for track in theJSON:
                 os.remove("temp1.webm")
                 os.remove("temp2.webm")
             except:
+                print("something went wrong")
                 pass
 f1.close()
 f2.close()
