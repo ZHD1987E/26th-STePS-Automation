@@ -22,19 +22,5 @@ for track in theJSON:
         projectNUMBER = project["refId"]
         f2.write(f"{trackCODE}-{projectNUMBER}: {projectNAME} \n\n")
         csvwriter.writerow([trackCODE, projectNUMBER, projectNAME, projectVIDEOURL, "; ".join(projectMEMBERS), ""])
-        if projectVIDEOURL != "":
-            try:
-                print("now downloading video...")
-                yt = YouTube(projectVIDEOURL) # assuming ALL project videos are YouTube links
-                videoStream = yt.streams.order_by('resolution').desc().first()
-                audioStream = yt.streams.filter(only_audio=True).order_by('abr').desc().first()
-                videoStream.download(filename="temp1.webm")
-                audioStream.download(filename="temp2.webm")
-                ffmpeg.output(ffmpeg.input("temp1.webm"), ffmpeg.input("temp2.webm"), f"videos/{trackCODE}-{projectNUMBER}.mp4", y = None).run()
-                os.remove("temp1.webm")
-                os.remove("temp2.webm")
-            except:
-                print("something went wrong")
-                pass
 f1.close()
 f2.close()
