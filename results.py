@@ -1,6 +1,7 @@
 import requests
 import json
 import csv
+from collections import defaultdict
 
 # Proof of concept only!
 # Eventually, this can be used to generate certificates on the fly.
@@ -13,18 +14,22 @@ awardsJSON = json.load(awardsDATA)
 csvDATAFILE = open("26th-steps-awardees.csv", "w", newline="", encoding = "utf-8")
 csvwriter = csv.writer(csvDATAFILE)
 csvwriter.writerow(["Track", "Project Number", "Project Name", "Students", "Award"])
-awardDESC = {0: "Best Project Award", 1: "1st Runners Up", 2: "2nd Runners Up"} # Will be adjusted if need be
-print(awardsJSON)
+defaultCERTORDER = ["Best Project", "1st Runners Up", "2nd Runners Up"]
+defaultCERTNUMBER = 3
+awardDATADICT = defaultdict(lambda: {"maxCerts": defaultCERTNUMBER, "awards": defaultCERTORDER})
 for course in theJSON:
     courseCODE = course["module"]
+    awards = awardDATADICT[courseCODE]["awards"]
+    maxAwards = awardDATADICT[courseCODE]["maxCerts"]
     courseRESULT = list(course["result"].items())
     courseRESULT.sort(key = lambda x: x[1], reverse = True)
-    courseRESULT = list(map(lambda e: f"{courseCODE}-{e[0]}", courseRESULT[:3])) # Top 3, this CANNOT be adjusted
-    for order in range(3):
+    courseRESULT = list(map(lambda e: f"{courseCODE}-{e[0]}", courseRESULT[:maxAwards]))
+    for order in range(maxAwards):
         courseAWARDDATA = awardsJSON[courseRESULT[order]]
-        courseNAME = courseAWARDDATA["name"]
-        courseMEMBERS = courseAWARDDATA["members"]
-        for member in courseMEMBERS:
-            csvwriter.writerow([courseCODE, courseRESULT[order].split("-")[1], courseNAME, member, awardDESC[order]])
+        winnerNAME = courseAWARDDATA["name"]
+        winnerMEMBERS = courseAWARDDATA["members"]
+        winnerAWARD = awards[order]
+        for member in winnerMEMBERS:
+            csvwriter.writerow([courseCODE, courseRESULT[order], winnerNAME, member, winnerAWARD])
 
 csvDATAFILE.close()
