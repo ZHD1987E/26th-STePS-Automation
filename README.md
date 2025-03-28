@@ -16,19 +16,6 @@ From then, it was pretty much a migration over to direct API use, and with the f
 
 Hopefully, with integration to UVENTS' awards system, it is now possible to fully automate the generation of certificates, thereby reducing the manpower needed.
 
-# How will the data there be used?
-There are three output files:
-- `26th-steps-data.csv`: This is meant for 'mail merge' operations especially if certificates have to be generated. Otherwise, it is tabular data that can be manipulated for many other reasons.
-- `26th-steps-projectnames.md`: This is meant for documents which just need the project names and their associated courses.
-- `26th-steps-videolinks.txt`: This is a textfile which `videodownload.py` will use to download the neccessary videos for eventual exhibition.
-
-As always, if you have any more ideas how to automate workflows with this repository, feel free to contact me below.
-
-# Can I use it anywhere else?
-If you talk about other UVENTS webpages, this should work well.
-
-However, this repository is specifically geared towards the 26th STePS in the School of Computing, so if you wish to use it anywhere else, you may need to do a bit of modifications.
-
 # Cool, who should I contact?
 
 If you are contacting **regarding the event**, please contact [Anand Bhojan](mailto:bhojan@comp.nus.edu.sg). **DO NOT CONTACT ME.**
