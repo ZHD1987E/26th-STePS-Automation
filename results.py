@@ -13,7 +13,6 @@ awardsDATA = open("26th-steps-json.json", "r", encoding = "utf-8")
 awardsJSON = json.load(awardsDATA)
 csvDATAFILE = open("26th-steps-awardees.csv", "w", newline="", encoding = "utf-8")
 csvwriter = csv.writer(csvDATAFILE)
-csvwriter.writerow(["Track", "Project Number", "Project Name", "Students", "Award"])
 defaultCERTORDER = ["Best Project", "1st Runners Up", "2nd Runners Up"]
 defaultCERTNUMBER = 3
 awardDATADICT = defaultdict(lambda: {"maxCerts": defaultCERTNUMBER, "awards": defaultCERTORDER})

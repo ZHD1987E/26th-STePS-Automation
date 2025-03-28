@@ -12,7 +12,7 @@ import os
 errorlog = open("errorlog.md", "w")
 errorlog.write(f"# Error Log\n\n")
 ## Downloading videos
-with open("26th-steps-videolinks.txt", "r") as f:
+with open("26th-steps-videolinks.dat", "r") as f:
     data = f.read().split("\n")
     for entry in data:
         entry = entry.split(": ")
