@@ -29,7 +29,7 @@ CP3108-14: Scheme edition of SICP
 
 CP3108-15: FFT for Sound Processing 
 
-CP3108-16: Exam mode for Source Academy 
+CP3108-16: Exam Mode for Source Academy 
 
 CP3108-17: brwne 
 
@@ -44,11 +44,11 @@ CS3203-3: Just Yap!
 
 # CS3217 Software Engineering on Modern Application Platforms 
 # CS3247 Game Development 
-CS3247-1: Unknown 
+CS3247-1: Age of Antpires 
 
 CS3247-2: Unknown 
 
-CS3247-3: Unknown 
+CS3247-3: Zombie Vortex 
 
 CS3247-4: Unknown 
 
@@ -56,7 +56,7 @@ CS3247-5: Runebound
 
 CS3247-6: Unknown 
 
-CS3247-7: Unknown 
+CS3247-7: Pawblem Solvers 
 
 CS3247-8: Unknown 
 
@@ -75,7 +75,7 @@ CS3247-14: Unknown
 CS3247-15: Unknown 
 
 # CS4240 Interaction Design for Virtual and Augmented Reality 
-CS4240-1: Unknown 
+CS4240-1: FlowZone 
 
 CS4240-2: StomaSim 
 
@@ -108,11 +108,13 @@ CS4248-6: Team 8: Mixture of Experts in Sarcasm Detection
 
 CS4248-7: Team 3: Code Embeddings for RAG 
 
-CS4248-8: <Change> Team 22: Using Influence Functions for LLM Unlearning 
+CS4248-8: Team 19: Efficient Scientific Citation Intent Classification 
 
 CS4248-9: Team 11: Distribution-Aware Sarcasm Detection 
 
 CS4248-10: 4 ConceptNet Path Quality Prediction 
+
+CS4248-11: Team 34: ConceptNet semantic knowledge graph 
 
 # MComp-FYP MComp/MSc/FYP/UROP/CP3106 
 MComp-FYP-1: Power management for Prahu Matahari 
