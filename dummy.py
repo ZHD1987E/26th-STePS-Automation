@@ -1,4 +1,3 @@
-import requests
 import json
 import csv
 
@@ -7,11 +6,8 @@ import csv
 # The only OTHER option is to manually tag on the data CSV file and then have Google Apps Script manually split the required data.
 # RUN THIS MANUALLY AFTER RESULTS ARE KNOWN!
 
-theAPIJSON = requests.get("https://uvents.nus.edu.sg/api/event/26th-steps/vote").json()
 theMASTERDATA = open("masterDATA.json", "r", encoding = "utf-8")
 theMASTERDATAJSON = json.load(theMASTERDATA)
-awardsDATA = open("26th-steps-json.json", "r", encoding = "utf-8")
-awardsJSON = json.load(awardsDATA)
 csvDATAFILE = open("26th-steps-awardees.csv", "w", newline="", encoding = "utf-8")
 csvwriter = csv.writer(csvDATAFILE)
 defaultCERTORDERUNDERGRAD = ["Best Project", "Second Prize", "Third Prize"]
@@ -20,12 +16,11 @@ defaultCERTNUMBER = 3
 undergradSIGN = "theundergradMAN"
 gradSIGN = "thegradMAN"
 csvwriter.writerow(["Course Names and Heads", "Project Name", "Winner Name", "Award", "Signature"])
-for course in theAPIJSON:
-    courseCODE = course["module"]
+for courseCODE, courseELEMENTS in theMASTERDATAJSON.items():
 
-    courseNAME = theMASTERDATAJSON[courseCODE]["name"]
-    isGraduate = theMASTERDATAJSON[courseCODE]["isGraduate"]
-    maxAwards = theMASTERDATAJSON[courseCODE]["maxCerts"]
+    courseNAME = courseELEMENTS["name"]
+    isGraduate = courseELEMENTS["isGraduate"]
+    maxAwards = courseELEMENTS["maxCerts"]
 
     if isGraduate:
         awards = [defaultCERTORDERGRAD] * maxAwards
@@ -33,18 +28,11 @@ for course in theAPIJSON:
     else:
         awards = defaultCERTORDERUNDERGRAD
         sign = undergradSIGN
-    
-    courseRESULT = list(course["result"].items())
-    courseRESULT.sort(key = lambda x: x[1], reverse = True)
-    courseRESULT = list(map(lambda e: f"{courseCODE}-{e[0]}", courseRESULT[:maxAwards]))
 
     for order in range(maxAwards):
-        courseAWARDDATA = awardsJSON[courseRESULT[order]]
-        winnerNAME = courseAWARDDATA["name"]
-        winnerMEMBERS = courseAWARDDATA["members"]
+        courseAWARDDATA = awards[order]
+        winnerNAME = f"{courseCODE}- "
         winnerAWARD = awards[order]
-
-        for member in winnerMEMBERS:
-            csvwriter.writerow([courseNAME, winnerNAME, member, winnerAWARD, sign])
+        csvwriter.writerow([courseNAME, "", winnerNAME, winnerAWARD, sign])
 
 csvDATAFILE.close()
