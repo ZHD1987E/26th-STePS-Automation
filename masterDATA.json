@@ -1,0 +1,20 @@
+{
+    "CS1010A":
+    {
+        "name": "Programming Methodology (Head: Bussy McBusFace)",
+        "maxCerts": 1,
+        "isgraduate": false
+    },
+    "CS3030":
+    {
+        "name": "Something Else (HEAD: Trucky McTruckFace)",
+        "maxCerts": 3,
+        "isgraduate": false
+    },
+    "FYP-MComp":
+    {
+        "name": "FYP (Head: Bussy McBusFace)",
+        "maxCerts": 2,
+        "isgraduate": true
+    }
+}
