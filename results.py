@@ -7,7 +7,6 @@ from collections import defaultdict
 # Eventually, this can be used to generate certificates on the fly.
 # The only OTHER option is to manually tag on the data CSV file and then have Google Apps Script manually split the required data.
 # RUN THIS MANUALLY AFTER RESULTS ARE KNOWN!
-# This applies to Undergraudate category only.
 
 theAPIJSON = requests.get("https://uvents.nus.edu.sg/api/event/26th-steps/vote").json()
 theMASTERDATA = open("masterDATA.json", "r", encoding = "utf-8")
@@ -41,7 +40,7 @@ for course in theAPIJSON:
         winnerNAME = courseAWARDDATA["name"]
         winnerMEMBERS = courseAWARDDATA["members"]
         winnerAWARD = awards[order]
-        
+
         for member in winnerMEMBERS:
             csvwriter.writerow([courseNAME, winnerNAME, member, winnerAWARD])
 
