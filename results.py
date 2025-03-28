@@ -13,13 +13,13 @@ awardsDATA = open("26th-steps-json.json", "r", encoding = "utf-8")
 awardsJSON = json.load(awardsDATA)
 csvDATAFILE = open("26th-steps-awardees.csv", "w", newline="", encoding = "utf-8")
 csvwriter = csv.writer(csvDATAFILE)
-defaultCERTORDER = ["Best Project", "1st Runners Up", "2nd Runners Up"]
+defaultCERTORDER = ["Best Project", "Second Prize", "Third Prize"]
 defaultCERTNUMBER = 3
-awardDATADICT = defaultdict(lambda: {"maxCerts": defaultCERTNUMBER, "awards": defaultCERTORDER})
+csvwriter.writerow(["Course Names and Heads", "Project Name", "Winner Name", "Award"])
 for course in theJSON:
     courseCODE = course["module"]
-    awards = awardDATADICT[courseCODE]["awards"]
-    maxAwards = awardDATADICT[courseCODE]["maxCerts"]
+    awards = defaultCERTORDER
+    maxAwards = defaultCERTNUMBER
     courseRESULT = list(course["result"].items())
     courseRESULT.sort(key = lambda x: x[1], reverse = True)
     courseRESULT = list(map(lambda e: f"{courseCODE}-{e[0]}", courseRESULT[:maxAwards]))
@@ -29,6 +29,6 @@ for course in theJSON:
         winnerMEMBERS = courseAWARDDATA["members"]
         winnerAWARD = awards[order]
         for member in winnerMEMBERS:
-            csvwriter.writerow([courseCODE, courseRESULT[order], winnerNAME, member, winnerAWARD])
+            csvwriter.writerow([courseCODE, winnerNAME, member, winnerAWARD])
 
 csvDATAFILE.close()
