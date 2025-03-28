@@ -1,7 +1,6 @@
 import requests
 import json
 import csv
-from collections import defaultdict
 
 # Proof of concept only!
 # Eventually, this can be used to generate certificates on the fly.
