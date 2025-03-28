@@ -3,7 +3,7 @@ function fetchCSVData() {
   var response = UrlFetchApp.fetch(url);
   var csvData = response.getContentText(); // Get the CSV as text
   var data = Utilities.parseCsv(csvData); // Convert CSV to a 2D array
-  
+  data = data.slice(1)
   Logger.log(data); // View the parsed data
   
   // OPTIONAL: Paste data into a Google Sheet
