@@ -17,7 +17,9 @@ csvwriter = csv.writer(csvDATAFILE)
 defaultCERTORDERUNDERGRAD = ["Best Project", "Second Prize", "Third Prize"]
 defaultCERTORDERGRAD = "Honorable Mention"
 defaultCERTNUMBER = 3
-csvwriter.writerow(["Course Names and Heads", "Project Name", "Winner Name", "Award"])
+undergradSIGN = "theundergradMAN"
+gradSIGN = "thegradMAN"
+csvwriter.writerow(["Course Names and Heads", "Project Name", "Winner Name", "Award", "Signature"])
 for course in theAPIJSON:
     courseCODE = course["module"]
 
@@ -27,8 +29,10 @@ for course in theAPIJSON:
 
     if isGraduate:
         awards = [defaultCERTORDERGRAD] * maxAwards
+        sign = gradSIGN
     else:
         awards = defaultCERTORDERUNDERGRAD
+        sign = undergradSIGN
     
     courseRESULT = list(course["result"].items())
     courseRESULT.sort(key = lambda x: x[1], reverse = True)
@@ -41,6 +45,6 @@ for course in theAPIJSON:
         winnerAWARD = awards[order]
 
         for member in winnerMEMBERS:
-            csvwriter.writerow([courseNAME, winnerNAME, member, winnerAWARD])
+            csvwriter.writerow([courseNAME, winnerNAME, member, winnerAWARD, sign])
 
 csvDATAFILE.close()
