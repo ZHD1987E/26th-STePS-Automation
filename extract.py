@@ -13,7 +13,7 @@ f2 = open("26th-steps-projectnames.md", "w", encoding = "utf-8")
 f3 = open("26th-steps-videolinks.dat", "w", encoding = "utf-8")
 f4 = open("26th-steps-json.json", "w", encoding = "utf-8") # required for awards processing
 awardJSONDATA = {}
-
+videoLISTDATA = []
 ## Processing data in JSON format
 for track in theJSON:
     # Going through each 'track' (courses/modules)
@@ -28,13 +28,14 @@ for track in theJSON:
         projectNAME = project["name"]
         projectVIDEOURL = project["videoLink"]
         if projectVIDEOURL:
-            f3.write(f"{trackCODE}-{project['refId']}: {projectVIDEOURL}\n")
+            videoLISTDATA.append(f"{trackCODE}-{project['refId']}: {projectVIDEOURL}\n")
         projectMEMBERS = list(map(lambda x: nameDCT[x], project["members"]))
         projectNUMBER = project["refId"]
         f2.write(f"{trackCODE}-{projectNUMBER}: {projectNAME} \n\n")
         awardJSONDATA[f"{trackCODE}-{projectNUMBER}"] = {"name": projectNAME, "members": projectMEMBERS}
 
 f4.write(json.dumps(awardJSONDATA))
+f3.writelines(videoLISTDATA)
 ## Closing the files
 f2.close()
 f3.close()
