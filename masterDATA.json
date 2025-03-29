@@ -38,5 +38,10 @@
         "name": " CS1010A Programming Methodology (Chair: A/Prof. Ben Leong 2)",
         "maxCerts": 1,
         "isGraduate": false
+    },
+    "CS2030": {
+        "name": " CS2030 Programming Methodology II (Chair: A/Prof. Someone Else)",
+        "maxCerts": 4,
+        "isGraduate": false
     }
 }
