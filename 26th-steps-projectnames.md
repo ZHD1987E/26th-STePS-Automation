@@ -1,4 +1,4 @@
-#CP3108 Source Academy
+# CP3108 Source Academy
 CP3108-1: AI-powered marking 
 
 CP3108-2: Stepper rewrite 
@@ -35,15 +35,15 @@ CP3108-17: brwne
 
 CP3108-18: Pie in Source Academy 
 
-#CS3203 Software Engineering Project
+# CS3203 Software Engineering Project
 CS3203-1: TravelWise 
 
 CS3203-2: IamDB 
 
 CS3203-3: Just Yap! 
 
-#CS3217 Software Engineering on Modern Application Platforms
-#CS3247 Game Development
+# CS3217 Software Engineering on Modern Application Platforms
+# CS3247 Game Development
 CS3247-1: Age of Antpires 
 
 CS3247-2: Unknown 
@@ -74,7 +74,7 @@ CS3247-14: Unknown
 
 CS3247-15: Unknown 
 
-#CS4240 Interaction Design for Virtual and Augmented Reality
+# CS4240 Interaction Design for Virtual and Augmented Reality
 CS4240-1: FlowZone 
 
 CS4240-2: StomaSim 
@@ -93,7 +93,7 @@ CS4240-8: Unknown
 
 CS4240-9: Unknown 
 
-#CS4248 Natural Language Processing
+# CS4248 Natural Language Processing
 CS4248-1: Team 14: Machine translation with ambiguous words in context. 
 
 CS4248-2: Team 25: Sarcastic news headlines (with their own Instagram dataset). 
@@ -116,7 +116,7 @@ CS4248-10: 4 ConceptNet Path Quality Prediction
 
 CS4248-11: Team 34: ConceptNet semantic knowledge graph 
 
-#MComp-FYP MComp/MSc/FYP/UROP/CP3106
+# MComp-FYP MComp/MSc/FYP/UROP/CP3106
 MComp-FYP-1: Power management for Prahu Matahari 
 
 MComp-FYP-2: A CSE machine for Python 
