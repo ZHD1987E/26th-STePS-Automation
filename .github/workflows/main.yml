@@ -41,7 +41,7 @@ jobs:
             git add "26th-steps-json.json" "26th-steps-projectnames.md" "26th-steps-videolinks.dat"
 
           # Commit the changes
-          git commit -m "Updating files automatically every 12 hours"
+            git diff --quiet || git commit -m "Updating files automatically every 12 hours"
 
           # Push the changes back to the repository
           git push -f origin main
