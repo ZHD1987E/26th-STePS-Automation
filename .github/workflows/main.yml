@@ -28,7 +28,7 @@ jobs:
 
       # Step 4: Run the Python script
       - name: Run the script
-        run: python automation.py
+        run: python extract.py
 
       # Step 5: Commit and push output file to GitHub
       - name: Commit and push output file to GitHub
@@ -38,7 +38,7 @@ jobs:
           git config --global user.email "zhanghaodong101@outlook.com"
           
           # Add the output file(s) to the repository
-            git add "26th-steps-data.csv" "26th-steps-projectnames.md"
+            git add "26th-steps-json.json" "26th-steps-projectnames.md" "26th-steps-videolinks.dat"
 
           # Commit the changes
           git diff --quiet || git commit -m "Updating files automatically every 12 hours"
