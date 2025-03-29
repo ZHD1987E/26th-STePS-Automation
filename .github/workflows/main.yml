@@ -28,7 +28,7 @@ jobs:
 
       # Step 4: Run the Python script
       - name: Run the script
-        run: python automation.py
+        run: python extract.py
 
       # Step 5: Commit and push output file to GitHub
       - name: Commit and push output file to GitHub
