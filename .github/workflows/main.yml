@@ -3,7 +3,7 @@ name: Run Python Script and Upload Output to Repo
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */12 * * *'
+    - cron: '0 0 * * *'
 
 jobs:
   run_script:
