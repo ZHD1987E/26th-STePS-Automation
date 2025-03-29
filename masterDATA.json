@@ -9,7 +9,7 @@
         "maxCerts": 3,
         "isGraduate": false
     },
-    "MComp-FYP": {
+    "FYP-MComp": {
         "name": "FYP-MComp Final Year Project/MComp Thesis (Chair: Dr. Cristina Carbunaru)",
         "maxCerts": 2,
         "isGraduate": true
@@ -27,6 +27,16 @@
     "CS4350": {
         "name": "CS4350 Game Development Project (Chair: Dr. Bhojan Anand)",
         "maxCerts": 2,
+        "isGraduate": false
+    },
+    "CS1010A": {
+        "name": " CS1010A Programming Methodology (Chair: A/Prof. Ben Leong)",
+        "maxCerts": 4,
+        "isGraduate": false
+    },
+    "CS1010B": {
+        "name": " CS1010A Programming Methodology (Chair: A/Prof. Ben Leong 2)",
+        "maxCerts": 1,
         "isGraduate": false
     }
 }
