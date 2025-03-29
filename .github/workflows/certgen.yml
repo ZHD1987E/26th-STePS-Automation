@@ -51,7 +51,7 @@ jobs:
                 git config --global user.email "zhanghaodong101@outlook.com"
 
                 git add "26th-steps-awardees.csv"
-                git diff --quiet ||  git commit -m "Generating Certificates!"
+                git commit -m "Generating Certificates!"
                 
                 git push -f origin main
               env:
