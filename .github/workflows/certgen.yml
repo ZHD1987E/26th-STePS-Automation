@@ -46,7 +46,7 @@ jobs:
             
                 # Step 5: Commit and push output file to GitHub
             - name: Commit and push output file to GitHub
-              run:
+              run: |
                 git config --global user.name "not ZHD1987E"
                 git config --global user.email "zhanghaodong101@outlook.com"
 
