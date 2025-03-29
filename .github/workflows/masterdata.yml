@@ -18,12 +18,6 @@ jobs:
               uses: actions/setup-python@v5
               with:
                 python-version: '3.10'
-
-            # Step 3: Install dependencies
-            - name: Install dependencies
-              run: |
-                python -m pip install --upgrade pip
-                pip install -r requirements.txt
             
             - name: Convert datafile to internal JSON data
               run: |
