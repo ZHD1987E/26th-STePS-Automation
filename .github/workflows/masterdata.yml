@@ -35,7 +35,7 @@ jobs:
                 git config --global user.email "zhanghaodong101@outlook.com"
 
                 git add "masterDATA.json"
-                git diff --quiet || git commit -m "Generating Certificates!"
+                git diff --quiet || git commit -m "Generating MasterData!"
                 
                 git push -f origin main
               env:
