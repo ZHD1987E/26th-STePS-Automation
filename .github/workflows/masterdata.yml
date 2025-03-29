@@ -22,14 +22,12 @@ jobs:
             - name: Convert datafile to internal JSON data
               run: |
                 python convertMASTERDATA.py
-
-                # Ensure masterDATA.json is updated
-                touch masterDATA.json
+                # Step 5: Commit and push output file to GitHub
             - name: Commit and push output file to GitHub
               run: |
                 git config --global user.name "not ZHD1987E"
                 git config --global user.email "zhanghaodong101@outlook.com"
-                git diff --exit-code masterDATA.json || git commit -m "Generating MasterData!"
+
                 git add "masterDATA.json"
                 git diff --quiet || git commit -m "Generating MasterData!"
                 
