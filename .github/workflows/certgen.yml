@@ -53,6 +53,6 @@ jobs:
                 git add "26th-steps-awardees.csv"
                 git diff --quiet || git commit -m "Generating Certificates!"
                 
-                git push -f origin Certificates
+                git push -f origin main
               env:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
