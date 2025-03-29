@@ -6,7 +6,7 @@ import requests
 import json
 
 ## Getting the API data from UVENTS
-theJSON = requests.get("https://uvents.nus.edu.sg/api/event/25th-steps/moduleTracks").json()
+theJSON = requests.get("https://uvents.nus.edu.sg/api/event/26th-steps/moduleTracks").json()
 
 ## Opening the neccessary files
 f2 = open("26th-steps-projectnames.md", "w", encoding = "utf-8")

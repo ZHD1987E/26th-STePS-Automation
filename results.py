@@ -7,7 +7,7 @@ import csv
 # The only OTHER option is to manually tag on the data CSV file and then have Google Apps Script manually split the required data.
 # RUN THIS MANUALLY AFTER RESULTS ARE KNOWN!
 
-theAPIJSON = requests.get("https://uvents.nus.edu.sg/api/event/25th-steps/vote").json()
+theAPIJSON = requests.get("https://uvents.nus.edu.sg/api/event/26th-steps/vote").json()
 theMASTERDATA = open("masterDATA.json", "r", encoding = "utf-8")
 theMASTERDATAJSON = json.load(theMASTERDATA)
 awardsDATA = open("26th-steps-json.json", "r", encoding = "utf-8")

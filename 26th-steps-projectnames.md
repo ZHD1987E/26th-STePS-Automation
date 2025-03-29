@@ -68,7 +68,7 @@ CS3247-11: Unknown
 
 CS3247-12: Unknown 
 
-CS3247-13: Unknown 
+CS3247-13: The Endless Halls 
 
 CS3247-14: Unknown 
 
@@ -94,7 +94,7 @@ CS4240-8: Unknown
 CS4240-9: Unknown 
 
 # CS4248 Natural Language Processing
-CS4248-1: Team 14: Machine translation with ambiguous words in context. 
+CS4248-1: 14 
 
 CS4248-2: Team 25: Sarcastic news headlines (with their own Instagram dataset). 
 
