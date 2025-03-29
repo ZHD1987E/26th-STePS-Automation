@@ -50,6 +50,7 @@ jobs:
                 git config --global user.name "not ZHD1987E"
                 git config --global user.email "zhanghaodong101@outlook.com"
 
+                git pull origin main --rebase
                 git add "26th-steps-awardees.csv"
                 git diff --quiet ||  git commit -m "Generating Certificates!"
                 

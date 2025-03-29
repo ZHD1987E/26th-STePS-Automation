@@ -36,7 +36,8 @@ jobs:
 
           git config --global user.name "not ZHD1987E"
           git config --global user.email "zhanghaodong101@outlook.com"
-          
+            
+          git pull origin main --rebase
           # Add the output file(s) to the repository
             git add "26th-steps-json.json" "26th-steps-projectnames.md" "26th-steps-videolinks.dat"
 
