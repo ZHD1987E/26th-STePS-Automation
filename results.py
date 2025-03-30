@@ -8,7 +8,7 @@ import csv
 # RUN THIS MANUALLY AFTER RESULTS ARE KNOWN!
 
 theAPIJSON = requests.get("https://uvents.nus.edu.sg/api/event/26th-steps/vote").json()
-theMASTERDATA = open("masterDATA.json", "r", encoding = "utf-8")
+theMASTERDATA = open("masterDATA.dat", "r", encoding = "utf-8")
 theMASTERDATAJSON = json.load(theMASTERDATA)
 awardsDATA = open("26th-steps-json.json", "r", encoding = "utf-8")
 awardsJSON = json.load(awardsDATA)
