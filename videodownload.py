@@ -4,10 +4,17 @@
 # Author: ZHD1987E
 
 ## Importing the neccessary libraries
-from pytubefix import YouTube
+import yt_dlp
 import json
-import ffmpeg
-import os
+
+def do_download(url, filename):
+    ydl_opts = {
+        'format': 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]',  # Best MP4 quality
+        'outtmpl': f'videos/{filename}.mp4',  # Custom filename
+        'merge_output_format': 'mp4'   # Ensure MP4 output
+    }
+    with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+        ydl.download([url])
 
 ## Creating error log file
 errorlog = open("errorlog.md", "w")
@@ -23,13 +30,7 @@ with open("26th-steps-teamData.dat", "r") as f:
         try:
             print(f"{courseName} has videos. Downloading...")
             # Downloading the video for the project in question
-            yt = YouTube(vLink)
-            vStream = yt.streams.order_by('resolution').desc().first()
-            aStream = yt.streams.filter(only_audio=True).order_by('abr').desc().first()
-            vStream.download(filename="temp1a.webm")
-            aStream.download(filename="temp2a.webm")
-            ffmpeg.output(ffmpeg.input("temp1a.webm"), ffmpeg.input("temp2a.webm"), f"videos/{courseName}.mp4").run()
-            print(f"{courseName} video downloaded.")
+            do_download(vLink, courseName)
         except:
             # Logging errors
             print(f"{courseName} video download failed. Writing to error log...")
@@ -37,9 +38,3 @@ with open("26th-steps-teamData.dat", "r") as f:
 ## Cleanup of temporary files
 errorlog.close()
 print("Videos have been downloaded.")
-try:
-    os.remove("temp1a.webm")
-    os.remove("temp2a.webm")
-    print("Temporary files removed.")
-except:
-    print("Nothing needs to be removed. Temporary files were removed.")
