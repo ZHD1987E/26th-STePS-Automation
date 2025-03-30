@@ -39,7 +39,7 @@ jobs:
             
           git pull origin main --rebase
           # Add the output file(s) to the repository
-            git add "26th-steps-json.json" "26th-steps-projectnames.md" "26th-steps-videolinks.dat"
+            git add "26th-steps-teamData.json"
 
           # Commit the changes
             git diff --quiet || git commit -m "Updating files automatically every 12 hours"

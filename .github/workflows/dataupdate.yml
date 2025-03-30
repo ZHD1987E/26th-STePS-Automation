@@ -28,7 +28,7 @@ jobs:
                 git config --global user.name "not ZHD1987E"
                 git config --global user.email "zhanghaodong101@outlook.com"
 
-                git add "masterDATA.json"
+                git add "26th-steps-awardData.dat"
                 git commit -m "Generating MasterData!"
                 
                 git push -f origin main
