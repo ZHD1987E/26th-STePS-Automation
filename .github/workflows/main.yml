@@ -37,7 +37,7 @@ jobs:
           git config --global user.name "not ZHD1987E"
           git config --global user.email "zhanghaodong101@outlook.com"
           # Add the output file(s) to the repository
-          git add "26th-steps-teamData.dat"
+          git add "26th-steps-teamData.dat" "26th-steps-projectnames.md"
 
           # Commit the changes
           git diff --quiet || git commit -m "Updating files automatically every 12 hours"
