@@ -43,6 +43,12 @@ CS3203-2: IamDB
 CS3203-3: Just Yap! 
 
 # CS3217 Software Engineering on Modern Application Platforms
+CS3217-1: Unknown 
+
+CS3217-2: Unknown 
+
+CS3217-3: Unknown 
+
 # CS3247 Game Development
 CS3247-1: Age of Antpires 
 
