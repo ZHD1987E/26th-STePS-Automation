@@ -40,7 +40,7 @@ jobs:
           git add "26th-steps-teamData.dat" "26th-steps-projectnames.md"
 
           # Commit the changes
-          git diff --quiet || git commit -m "Updating files automatically every 12 hours"
+          git commit -m "Updating files automatically every 12 hours"
 
           # Push the changes back to the repository
           git push -f origin main
