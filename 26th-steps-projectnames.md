@@ -5,7 +5,7 @@ CP3108-2: Stepper rewrite
 
 CP3108-3: Java Visualization 
 
-CP3108-4: Sessions 
+CP3108-4: Playground Sessions 
 
 CP3108-5: C compiler 
 
@@ -29,7 +29,7 @@ CP3108-14: Scheme edition of SICP
 
 CP3108-15: FFT for Sound Processing 
 
-CP3108-16: Exam Mode for Source Academy 
+CP3108-16: Exam mode for Source Academy 
 
 CP3108-17: brwne 
 
@@ -50,7 +50,7 @@ CS3247-2: Unknown
 
 CS3247-3: Zombie Vortex 
 
-CS3247-4: Unknown 
+CS3247-4: Fools Gold 
 
 CS3247-5: Runebound 
 
@@ -58,7 +58,7 @@ CS3247-6: Unknown
 
 CS3247-7: Pawblem Solvers 
 
-CS3247-8: Unknown 
+CS3247-8: Dungeon Slayer 
 
 CS3247-9: Unknown 
 
@@ -87,20 +87,20 @@ CS4240-5: Immersi-Fit
 
 CS4240-6: Unknown 
 
-CS4240-7: MELTDOWN 
+CS4240-7: Meltdown 
 
-CS4240-8: Unknown 
+CS4240-8: Spine3D 
 
 CS4240-9: Unknown 
 
 # CS4248 Natural Language Processing
 CS4248-1: 14 
 
-CS4248-2: Team 25: Sarcastic news headlines (with their own Instagram dataset). 
+CS4248-2: Team 25: Sarcastic news headlines 
 
 CS4248-3: Team 33: Emoji compositions with visual information. 
 
-CS4248-4: Team 35: Emoji compositions with visual information. 
+CS4248-4: Team 35: Eyes are All You Need 
 
 CS4248-5: Team 41: Can emojis be used to capture meaning? 
 
@@ -110,11 +110,13 @@ CS4248-7: Team 3: Code Embeddings for RAG
 
 CS4248-8: Team 19: Efficient Scientific Citation Intent Classification 
 
-CS4248-9: Team 11: Distribution-Aware Sarcasm Detection 
+CS4248-9: Distribution-Aware Sarcasm Detection 
 
-CS4248-10: 4 ConceptNet Path Quality Prediction 
+CS4248-10: Automating Intuition: Predicting ConceptNet Path Quality with Language Models 
 
 CS4248-11: Team 34: ConceptNet semantic knowledge graph 
+
+CS4248-12: Team 2: Beyond the Literal 
 
 # MComp-FYP MComp/MSc/FYP/UROP/CP3106
 MComp-FYP-1: Power management for Prahu Matahari 
@@ -133,7 +135,7 @@ MComp-FYP-7: Source Academy as Visual Studio Code Extension
 
 MComp-FYP-8: Unknown 
 
-MComp-FYP-9: Unknown 
+MComp-FYP-9: Dynamic Difficulty Adjustment in VR Exergame 
 
 MComp-FYP-10: Unknown 
 
