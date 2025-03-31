@@ -1,9 +1,9 @@
-name: Run Python Script and Upload Output to Repo
+name: Updating team project data files.
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 4,16 * * *'
 
 jobs:
   run_script:
@@ -36,13 +36,11 @@ jobs:
 
           git config --global user.name "not ZHD1987E"
           git config --global user.email "zhanghaodong101@outlook.com"
-            
-          git pull origin main --rebase
           # Add the output file(s) to the repository
-            git add "26th-steps-teamData.dat"
+          git add "26th-steps-teamData.dat" "26th-steps-projectnames.md"
 
           # Commit the changes
-            git diff --quiet || git commit -m "Updating files automatically every 12 hours"
+          git diff --quiet || git commit -m "Updating files automatically every 12 hours"
 
           # Push the changes back to the repository
           git push -f origin main
