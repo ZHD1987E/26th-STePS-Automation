@@ -24,7 +24,7 @@
         "videoLink": ""
     },
     "CP3108-4": {
-        "name": "Sessions",
+        "name": "Playground Sessions",
         "members": [
             "Gary Axel Muliyono",
             "Lee Kai Xuan"
@@ -119,7 +119,7 @@
         "videoLink": ""
     },
     "CP3108-16": {
-        "name": "Exam Mode for Source Academy",
+        "name": "Exam mode for Source Academy",
         "members": [
             "Florian Viorel Tanely",
             "Khor Kah Seng"
@@ -132,7 +132,7 @@
             "Simantak Vaibhavkumar Dabhade",
             "RAHUL VENKATA MALLAVARAPU"
         ],
-        "videoLink": ""
+        "videoLink": "https://www.youtube.com/watch?v=P0z_0gsc51Y"
     },
     "CP3108-18": {
         "name": "Pie in Source Academy",
@@ -211,7 +211,7 @@
         "videoLink": ""
     },
     "CS3247-4": {
-        "name": "Unknown",
+        "name": "Fools Gold",
         "members": [
             "AW MING YI",
             "Dinh Tran Hai Chien",
@@ -258,7 +258,7 @@
         "videoLink": ""
     },
     "CS3247-8": {
-        "name": "Unknown",
+        "name": "Dungeon Slayer",
         "members": [
             "GERARD JEREMIAH MATTHEW",
             "LAI YIWEN",
@@ -407,7 +407,7 @@
         "videoLink": ""
     },
     "CS4240-7": {
-        "name": "MELTDOWN",
+        "name": "Meltdown",
         "members": [
             "CHONG XIAO XUAN",
             "Florentiana Yuwono",
@@ -418,7 +418,7 @@
         "videoLink": ""
     },
     "CS4240-8": {
-        "name": "Unknown",
+        "name": "Spine3D",
         "members": [
             "DESVIGNES SERVANE INES",
             "Lavanya Mishra",
@@ -450,7 +450,7 @@
         "videoLink": ""
     },
     "CS4248-2": {
-        "name": "Team 25: Sarcastic news headlines (with their own Instagram dataset).",
+        "name": "Team 25: Sarcastic news headlines",
         "members": [
             "Benson Ang Wei Kiat",
             "Aslam",
@@ -472,7 +472,7 @@
         "videoLink": ""
     },
     "CS4248-4": {
-        "name": "Team 35: Emoji compositions with visual information.",
+        "name": "Team 35: Eyes are All You Need",
         "members": [
             "Chow Jie, Seth",
             "Hung Ming Kin",
@@ -487,7 +487,7 @@
         "name": "Team 41: Can emojis be used to capture meaning?",
         "members": [
             "Jin Chun",
-            "Luca Bauman",
+            "Luca Baumann",
             "Low Keng Hoong, Warren",
             "Yao Hejun",
             "Zhang Mengjie",
@@ -531,7 +531,7 @@
         "videoLink": ""
     },
     "CS4248-9": {
-        "name": "Team 11: Distribution-Aware Sarcasm Detection",
+        "name": "Distribution-Aware Sarcasm Detection",
         "members": [
             "Yu Jiali",
             "Liang Wenzhong",
@@ -543,7 +543,7 @@
         "videoLink": ""
     },
     "CS4248-10": {
-        "name": "4 ConceptNet Path Quality Prediction",
+        "name": "Automating Intuition: Predicting ConceptNet Path Quality with Language Models",
         "members": [
             "Caleb Chan Jia Le",
             "Fong Yi Yong Calvin",
@@ -561,6 +561,17 @@
             "Derrick Khoo",
             "LEE YUAN QI DARYLE",
             "LOW XUE LING"
+        ],
+        "videoLink": ""
+    },
+    "CS4248-12": {
+        "name": "Team 2: Beyond the Literal",
+        "members": [
+            "Glenda Chong Rui Ting",
+            "Chew Jing Heng",
+            "Lim Diat Bbin",
+            "Morales Aames Juriel Beladas",
+            "NEO SUN HAN"
         ],
         "videoLink": ""
     },
@@ -621,7 +632,7 @@
         "videoLink": ""
     },
     "MComp-FYP-9": {
-        "name": "Unknown",
+        "name": "Dynamic Difficulty Adjustment in VR Exergame",
         "members": [
             "WU LEZHENG",
             "Lee Care Gene"
