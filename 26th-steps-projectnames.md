@@ -1,13 +1,13 @@
 # CP3108 Source Academy
 CP3108-1: AI-powered marking 
 
-CP3108-2: Stepper rewrite 
+CP3108-2: Stepper Rewrite 
 
 CP3108-3: Java Visualization 
 
 CP3108-4: Sessions 
 
-CP3108-5: C compiler 
+CP3108-5: C Compiler (CTOWASM) 
 
 CP3108-6: CSE machine 
 
@@ -23,7 +23,7 @@ CP3108-11: Programming components in Source Academy Game
 
 CP3108-12: SICP JS Internationalization 
 
-CP3108-13: AI bots for CS1101S and SICP JS 
+CP3108-13: Mastery Check AI Bot for CS1101S 
 
 CP3108-14: Scheme edition of SICP 
 
@@ -43,16 +43,16 @@ CS3203-2: IamDB
 CS3203-3: Just Yap! 
 
 # CS3217 Software Engineering on Modern Application Platforms
-CS3217-1: Unknown 
+CS3217-1: Ah Leong's Farm 
 
-CS3217-2: Unknown 
+CS3217-2: TokiToki 
 
 CS3217-3: Unknown 
 
 # CS3247 Game Development
 CS3247-1: Age of Antpires 
 
-CS3247-2: Unknown 
+CS3247-2: Hours Between 
 
 CS3247-3: Zombie Vortex 
 
@@ -60,7 +60,7 @@ CS3247-4: Fools Gold
 
 CS3247-5: Runebound 
 
-CS3247-6: Unknown 
+CS3247-6: Ravening 
 
 CS3247-7: Pawblem Solvers 
 
@@ -70,7 +70,7 @@ CS3247-9: Unknown
 
 CS3247-10: Unknown 
 
-CS3247-11: Unknown 
+CS3247-11: Heaven's Trial 
 
 CS3247-12: Unknown 
 
@@ -78,7 +78,7 @@ CS3247-13: The Endless Halls
 
 CS3247-14: Unknown 
 
-CS3247-15: Unknown 
+CS3247-15: The Last Runner 
 
 # CS4240 Interaction Design for Virtual and Augmented Reality
 CS4240-1: FlowZone 
@@ -97,12 +97,12 @@ CS4240-7: Meltdown
 
 CS4240-8: Spine3D 
 
-CS4240-9: Unknown 
+CS4240-9: Cryosurgery Simulator 
 
 # CS4248 Natural Language Processing
 CS4248-1: 14 
 
-CS4248-2: Team 25: Sarcastic news headlines 
+CS4248-2: Team 25: Cross-Cultural Analysis of Sarcasm in News Headlines 
 
 CS4248-3: Team 33: Emoji compositions with visual information. 
 

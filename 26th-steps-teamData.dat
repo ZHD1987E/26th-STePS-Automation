@@ -8,7 +8,7 @@
         "videoLink": ""
     },
     "CP3108-2": {
-        "name": "Stepper rewrite",
+        "name": "Stepper Rewrite",
         "members": [
             "Kavishwer Sathiamorthy",
             "Kosolpattanadurong Thitiwat"
@@ -32,7 +32,7 @@
         "videoLink": ""
     },
     "CP3108-5": {
-        "name": "C compiler",
+        "name": "C Compiler (CTOWASM)",
         "members": [
             "DO TRONG UIY",
             "Choo Yu Xiang, Morpheus"
@@ -95,7 +95,7 @@
         "videoLink": ""
     },
     "CP3108-13": {
-        "name": "AI bots for CS1101S and SICP JS",
+        "name": "Mastery Check AI Bot for CS1101S",
         "members": [
             "Roger Lim Bo Zu",
             "Javier Enrique Wong"
@@ -175,17 +175,17 @@
         "videoLink": ""
     },
     "CS3217-1": {
-        "name": "Unknown",
+        "name": "Ah Leong's Farm",
         "members": [
-            "CARMEN ANG",
-            "LEONG WEI ZHI",
+            "Leong Wei Zhi",
             "MA YUCHEN",
-            "ONG PEI CONG LESTER"
+            "Ong Pei Cong Lester",
+            "Carmen Ang"
         ],
         "videoLink": ""
     },
     "CS3217-2": {
-        "name": "Unknown",
+        "name": "TokiToki",
         "members": [
             "Chen Shaoheng",
             "HO JIA CHENG",
@@ -215,7 +215,7 @@
         "videoLink": ""
     },
     "CS3247-2": {
-        "name": "Unknown",
+        "name": "Hours Between",
         "members": [
             "GOH WEE LIANG AIDAN",
             "MAHADHIR BIN MOHD ISMAIL",
@@ -262,7 +262,7 @@
         "videoLink": ""
     },
     "CS3247-6": {
-        "name": "Unknown",
+        "name": "Ravening",
         "members": [
             "ETHAN JED TAN JIA EN",
             "FU MING JUN, DOMINIC",
@@ -319,7 +319,7 @@
         "videoLink": ""
     },
     "CS3247-11": {
-        "name": "Unknown",
+        "name": "Heaven's Trial",
         "members": [
             "CHEN XIN-AN",
             "NG WEI MING",
@@ -358,7 +358,7 @@
         "videoLink": ""
     },
     "CS3247-15": {
-        "name": "Unknown",
+        "name": "The Last Runner",
         "members": [
             "CARSTEN JOE NG",
             "LU BOLIN",
@@ -458,7 +458,7 @@
         "videoLink": ""
     },
     "CS4240-9": {
-        "name": "Unknown",
+        "name": "Cryosurgery Simulator",
         "members": [
             "Chen Jiarui",
             "JULIA CHRISTY PURBA",
@@ -478,14 +478,14 @@
         "videoLink": ""
     },
     "CS4248-2": {
-        "name": "Team 25: Sarcastic news headlines",
+        "name": "Team 25: Cross-Cultural Analysis of Sarcasm in News Headlines",
         "members": [
             "Benson Ang Wei Kiat",
             "Aslam",
-            "Choo Weng Yan",
             "Edric Boby Tri Raharjo",
             "Chen Qun",
-            "Tan Ying Ting"
+            "Tan Ying Ting",
+            "Choo Weng Yan"
         ],
         "videoLink": ""
     },
