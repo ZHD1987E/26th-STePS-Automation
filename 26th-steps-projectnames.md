@@ -5,7 +5,7 @@ CP3108-2: Stepper rewrite
 
 CP3108-3: Java Visualization 
 
-CP3108-4: Playground Sessions 
+CP3108-4: Sessions 
 
 CP3108-5: C compiler 
 
@@ -120,9 +120,9 @@ CS4248-9: Distribution-Aware Sarcasm Detection
 
 CS4248-10: Automating Intuition: Predicting ConceptNet Path Quality with Language Models 
 
-CS4248-11: Team 34: ConceptNet semantic knowledge graph 
+CS4248-11: Team 34: Bias-Aware Word Embeddings: Leveraging ConceptNet for Fairer and Efficient NLP Models 
 
-CS4248-12: Team 2: Beyond the Literal 
+CS4248-12: Team 2: Beyond the Literal: Unmasking Sarcasm with Sentiment-Informed AI 
 
 # MComp-FYP MComp/MSc/FYP/UROP/CP3106
 MComp-FYP-1: Power management for Prahu Matahari 

@@ -24,10 +24,10 @@
         "videoLink": ""
     },
     "CP3108-4": {
-        "name": "Playground Sessions",
+        "name": "Sessions",
         "members": [
-            "Gary Axel Muliyono",
-            "Lee Kai Xuan"
+            "Lee Kai Xuan",
+            "Gary Axel Muliyono"
         ],
         "videoLink": ""
     },
@@ -582,7 +582,7 @@
         "videoLink": ""
     },
     "CS4248-11": {
-        "name": "Team 34: ConceptNet semantic knowledge graph",
+        "name": "Team 34: Bias-Aware Word Embeddings: Leveraging ConceptNet for Fairer and Efficient NLP Models",
         "members": [
             "Bernard Cheng Zheng Zhuan",
             "Kartikeya -",
@@ -593,7 +593,7 @@
         "videoLink": ""
     },
     "CS4248-12": {
-        "name": "Team 2: Beyond the Literal",
+        "name": "Team 2: Beyond the Literal: Unmasking Sarcasm with Sentiment-Informed AI",
         "members": [
             "Glenda Chong Rui Ting",
             "Chew Jing Heng",
