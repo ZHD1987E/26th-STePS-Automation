@@ -1,13 +1,13 @@
 # CP3108 Source Academy
 CP3108-1: AI-powered marking 
 
-CP3108-2: Stepper Rewrite 
+CP3108-2: Stepper rewrite 
 
 CP3108-3: Java Visualization 
 
 CP3108-4: Sessions 
 
-CP3108-5: C Compiler (CTOWASM) 
+CP3108-5: C compiler 
 
 CP3108-6: CSE machine 
 
@@ -23,7 +23,7 @@ CP3108-11: Programming components in Source Academy Game
 
 CP3108-12: SICP JS Internationalization 
 
-CP3108-13: Mastery Check AI Bot for CS1101S 
+CP3108-13: AI bots for CS1101S and SICP JS 
 
 CP3108-14: Scheme edition of SICP 
 
@@ -47,7 +47,7 @@ CS3217-1: Ah Leong's Farm
 
 CS3217-2: TokiToki 
 
-CS3217-3: Unknown 
+CS3217-3: Alice In Boredom Land 
 
 # CS3247 Game Development
 CS3247-1: Age of Antpires 
@@ -66,7 +66,7 @@ CS3247-7: Pawblem Solvers
 
 CS3247-8: Dungeon Slayer 
 
-CS3247-9: Unknown 
+CS3247-9: Ten Lives 
 
 CS3247-10: Unknown 
 
@@ -102,27 +102,29 @@ CS4240-9: Cryosurgery Simulator
 # CS4248 Natural Language Processing
 CS4248-1: 14 
 
-CS4248-2: Team 25: Cross-Cultural Analysis of Sarcasm in News Headlines 
+CS4248-2: Cross-Cultural Analysis of Sarcasm in News Headlines 
 
-CS4248-3: Team 33: Emoji compositions with visual information. 
+CS4248-3: Emoji compositions with visual information. 
 
-CS4248-4: Team 35: Eyes are All You Need 
+CS4248-4: Eyes are All You Need 
 
-CS4248-5: Team 41: Can emojis be used to capture meaning? 
+CS4248-5: Can emojis be used to capture meaning? 
 
-CS4248-6: Team 8: Mixture of Experts in Sarcasm Detection 
+CS4248-6: Mixture of Experts in Sarcasm Detection 
 
-CS4248-7: Team 3: Code Embeddings for RAG 
+CS4248-7: Code Embeddings for RAG 
 
-CS4248-8: Team 19: Efficient Scientific Citation Intent Classification 
+CS4248-8: Efficient Scientific Citation Intent Classification 
 
 CS4248-9: Distribution-Aware Sarcasm Detection 
 
 CS4248-10: Automating Intuition: Predicting ConceptNet Path Quality with Language Models 
 
-CS4248-11: Team 34: Bias-Aware Word Embeddings: Leveraging ConceptNet for Fairer and Efficient NLP Models 
+CS4248-11: Bias-Aware Word Embeddings: Leveraging ConceptNet for Fairer and Efficient NLP Models 
 
-CS4248-12: Team 2: Beyond the Literal: Unmasking Sarcasm with Sentiment-Informed AI 
+CS4248-12: Beyond the Literal: Unmasking Sarcasm with Sentiment-Informed AI 
+
+CS4248-14: Oh sure that's definitely not sarcasm 
 
 # MComp-FYP MComp/MSc/FYP/UROP/CP3106
 MComp-FYP-1: Power management for Prahu Matahari 

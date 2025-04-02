@@ -8,7 +8,7 @@
         "videoLink": ""
     },
     "CP3108-2": {
-        "name": "Stepper Rewrite",
+        "name": "Stepper rewrite",
         "members": [
             "Kavishwer Sathiamorthy",
             "Kosolpattanadurong Thitiwat"
@@ -32,7 +32,7 @@
         "videoLink": ""
     },
     "CP3108-5": {
-        "name": "C Compiler (CTOWASM)",
+        "name": "C compiler",
         "members": [
             "DO TRONG UIY",
             "Choo Yu Xiang, Morpheus"
@@ -95,7 +95,7 @@
         "videoLink": ""
     },
     "CP3108-13": {
-        "name": "Mastery Check AI Bot for CS1101S",
+        "name": "AI bots for CS1101S and SICP JS",
         "members": [
             "Roger Lim Bo Zu",
             "Javier Enrique Wong"
@@ -195,7 +195,7 @@
         "videoLink": ""
     },
     "CS3217-3": {
-        "name": "Unknown",
+        "name": "Alice In Boredom Land",
         "members": [
             "Lai Xiong Xing Daniel",
             "WILLIAM JACOB WIJAYA"
@@ -298,7 +298,7 @@
         "videoLink": ""
     },
     "CS3247-9": {
-        "name": "Unknown",
+        "name": "Ten Lives",
         "members": [
             "ANG SONG YEE",
             "Chua Zen Khoon",
@@ -469,7 +469,6 @@
     "CS4248-1": {
         "name": "14",
         "members": [
-            "Justin Cheah Yun Fei",
             "A0266070J",
             "Choi Chak Long",
             "A0233414R",
@@ -478,7 +477,7 @@
         "videoLink": ""
     },
     "CS4248-2": {
-        "name": "Team 25: Cross-Cultural Analysis of Sarcasm in News Headlines",
+        "name": "Cross-Cultural Analysis of Sarcasm in News Headlines",
         "members": [
             "Benson Ang Wei Kiat",
             "Aslam",
@@ -490,7 +489,7 @@
         "videoLink": ""
     },
     "CS4248-3": {
-        "name": "Team 33: Emoji compositions with visual information.",
+        "name": "Emoji compositions with visual information.",
         "members": [
             "ZHANG JIASHENG",
             "Bao Mingyang",
@@ -500,7 +499,7 @@
         "videoLink": ""
     },
     "CS4248-4": {
-        "name": "Team 35: Eyes are All You Need",
+        "name": "Eyes are All You Need",
         "members": [
             "Chow Jie, Seth",
             "Hung Ming Kin",
@@ -512,7 +511,7 @@
         "videoLink": ""
     },
     "CS4248-5": {
-        "name": "Team 41: Can emojis be used to capture meaning?",
+        "name": "Can emojis be used to capture meaning?",
         "members": [
             "Jin Chun",
             "Luca Baumann",
@@ -524,7 +523,7 @@
         "videoLink": ""
     },
     "CS4248-6": {
-        "name": "Team 8: Mixture of Experts in Sarcasm Detection",
+        "name": "Mixture of Experts in Sarcasm Detection",
         "members": [
             "Vigneshwar Hariharan",
             "Vaishnav Muralidharan",
@@ -536,7 +535,7 @@
         "videoLink": ""
     },
     "CS4248-7": {
-        "name": "Team 3: Code Embeddings for RAG",
+        "name": "Code Embeddings for RAG",
         "members": [
             "Gan Pang Yen",
             "Lim Jian Hong",
@@ -547,7 +546,7 @@
         "videoLink": ""
     },
     "CS4248-8": {
-        "name": "Team 19: Efficient Scientific Citation Intent Classification",
+        "name": "Efficient Scientific Citation Intent Classification",
         "members": [
             "Chung Yunseong",
             "Shawn Kok",
@@ -582,7 +581,7 @@
         "videoLink": ""
     },
     "CS4248-11": {
-        "name": "Team 34: Bias-Aware Word Embeddings: Leveraging ConceptNet for Fairer and Efficient NLP Models",
+        "name": "Bias-Aware Word Embeddings: Leveraging ConceptNet for Fairer and Efficient NLP Models",
         "members": [
             "Bernard Cheng Zheng Zhuan",
             "Kartikeya -",
@@ -593,13 +592,28 @@
         "videoLink": ""
     },
     "CS4248-12": {
-        "name": "Team 2: Beyond the Literal: Unmasking Sarcasm with Sentiment-Informed AI",
+        "name": "Beyond the Literal: Unmasking Sarcasm with Sentiment-Informed AI",
         "members": [
             "Glenda Chong Rui Ting",
             "Chew Jing Heng",
             "Lim Diat Bbin",
             "Morales Aames Juriel Beladas",
-            "NEO SUN HAN"
+            "NEO SUN HAN",
+            "Glenda Chong Rui Ting",
+            "Morales Aames Juriel Beladas",
+            "Neo Sun Han"
+        ],
+        "videoLink": ""
+    },
+    "CS4248-14": {
+        "name": "Oh sure that's definitely not sarcasm",
+        "members": [
+            "Chong Tze Yan",
+            "Da Jiaxuan",
+            "Yu Chenbo",
+            "Wang Xinrong",
+            "Samuel Then Shi Jie",
+            "Shanmugam Udhaya"
         ],
         "videoLink": ""
     },
