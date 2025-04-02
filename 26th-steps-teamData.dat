@@ -684,5 +684,37 @@
             "Li Tianze"
         ],
         "videoLink": ""
+    },
+    "MComp-FYP-12": {
+        "name": "CRISP: Classroom Repository Interaction and Status Platform",
+        "members": [
+            "Tjan Eng Ger, Kevin",
+            "Koh Rui Jie",
+            "Wang Xinyi"
+        ],
+        "videoLink": ""
+    },
+    "MComp-FYP-13": {
+        "name": "TROFOS - AI Enabled Software Project Management",
+        "members": [
+            "Tham Rui Cong",
+            "Tang Bo Kuan"
+        ],
+        "videoLink": ""
+    },
+    "MComp-FYP-14": {
+        "name": "Coursemology RagWise Forum Auto Response",
+        "members": [
+            "Png Yi Wei Jonas"
+        ],
+        "videoLink": ""
+    },
+    "MComp-FYP-15": {
+        "name": "Adaptive Quiz and Programming Assignment Platform for Self-Guided AI Learning & Education",
+        "members": [
+            "Seah Shau Chung Nicholas",
+            "Chrysline Lim Xing Hui"
+        ],
+        "videoLink": ""
     }
 }

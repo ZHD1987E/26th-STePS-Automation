@@ -147,3 +147,11 @@ MComp-FYP-10: Unknown
 
 MComp-FYP-11: Unknown 
 
+MComp-FYP-12: CRISP: Classroom Repository Interaction and Status Platform 
+
+MComp-FYP-13: TROFOS - AI Enabled Software Project Management 
+
+MComp-FYP-14: Coursemology RagWise Forum Auto Response 
+
+MComp-FYP-15: Adaptive Quiz and Programming Assignment Platform for Self-Guided AI Learning & Education 
+
