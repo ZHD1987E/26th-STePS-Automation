@@ -110,7 +110,7 @@ CS4248-4: Eyes are All You Need
 
 CS4248-5: Can emojis be used to capture meaning? 
 
-CS4248-6: Mixture of Experts in Sarcasm Detection 
+CS4248-6: Beyond the Headlines 
 
 CS4248-7: Code Embeddings for RAG 
 
@@ -147,7 +147,7 @@ MComp-FYP-9: Dynamic Difficulty Adjustment in VR Exergame
 
 MComp-FYP-10: Unknown 
 
-MComp-FYP-11: Unknown 
+MComp-FYP-11: Game Asset Generative AI Pipeline 
 
 MComp-FYP-12: CRISP: Classroom Repository Interaction and Status Platform 
 
