@@ -91,7 +91,7 @@ CS4240-4: Unknown
 
 CS4240-5: Immersi-Fit 
 
-CS4240-6: Unknown 
+CS4240-6: LexiCrash 
 
 CS4240-7: Meltdown 
 
@@ -126,6 +126,9 @@ CS4248-12: Beyond the Literal: Unmasking Sarcasm with Sentiment-Informed AI
 
 CS4248-14: Oh sure that's definitely not sarcasm 
 
+CS4248-15: 16: NLP model on the News Headlines Dataset For Sarcasm Detection 
+
+# IT5007 Software Engineering on Application Architecture
 # MComp-FYP MComp/MSc/FYP/UROP/CP3106
 MComp-FYP-1: Power management for Prahu Matahari 
 
@@ -156,4 +159,6 @@ MComp-FYP-13: TROFOS - AI Enabled Software Project Management
 MComp-FYP-14: Coursemology RagWise Forum Auto Response 
 
 MComp-FYP-15: Adaptive Quiz and Programming Assignment Platform for Self-Guided AI Learning & Education 
+
+MComp-FYP-16: Pebble: Adaptive Self-Learning Platform 
 

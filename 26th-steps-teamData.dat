@@ -423,7 +423,7 @@
         "videoLink": ""
     },
     "CS4240-6": {
-        "name": "Unknown",
+        "name": "LexiCrash",
         "members": [
             "ANG JUN YANG",
             "Guo Jingxiang",
@@ -617,6 +617,17 @@
         ],
         "videoLink": ""
     },
+    "CS4248-15": {
+        "name": "16: NLP model on the News Headlines Dataset For Sarcasm Detection",
+        "members": [
+            "Goh Jun Yi",
+            "Fong Yih Jie",
+            "Daniel Kok",
+            "Eugene Chia",
+            "LIN CHIEH"
+        ],
+        "videoLink": ""
+    },
     "MComp-FYP-1": {
         "name": "Power management for Prahu Matahari",
         "members": [
@@ -728,6 +739,14 @@
         "members": [
             "Seah Shau Chung Nicholas",
             "Chrysline Lim Xing Hui"
+        ],
+        "videoLink": ""
+    },
+    "MComp-FYP-16": {
+        "name": "Pebble: Adaptive Self-Learning Platform",
+        "members": [
+            "Anjali Agarwal",
+            "Pratham Jain"
         ],
         "videoLink": ""
     }
