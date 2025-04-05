@@ -6,7 +6,7 @@ import csv
 # The only OTHER option is to manually tag on the data CSV file and then have Google Apps Script manually split the required data.
 # RUN THIS MANUALLY AFTER RESULTS ARE KNOWN!
 
-theMASTERDATA = open("masterDATA.dat", "r", encoding = "utf-8")
+theMASTERDATA = open("26th-steps-awardData.dat", "r", encoding = "utf-8")
 theMASTERDATAJSON = json.load(theMASTERDATA)
 csvDATAFILE = open("26th-steps-awardees.csv", "w", newline="", encoding = "utf-8")
 csvwriter = csv.writer(csvDATAFILE)
