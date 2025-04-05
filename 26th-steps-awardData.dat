@@ -1,2 +1,12 @@
 {
+    "CS2030": {
+        "name": "XXX",
+        "maxCerts": 1,
+        "isGraduate": false
+    },
+    "CS1010": {
+        "name": "MRX",
+        "maxCerts": 2,
+        "isGraduate": false
+    }
 }
