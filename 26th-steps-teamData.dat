@@ -467,12 +467,13 @@
         "videoLink": "https://youtu.be/HZJUOKquCMg"
     },
     "CS4248-1": {
-        "name": "14",
+        "name": "[Team 14] Resolving Polysemous Words: Evaluating WSD in Neural Machine Translation",
         "members": [
-            "A0266070J",
+            "Justin Cheah Yun Fei",
+            "Yeo Zi Yi",
             "Choi Chak Long",
             "A0233414R",
-            "Yeo Zi Yi"
+            "Tsui Yi Wern"
         ],
         "videoLink": ""
     },
