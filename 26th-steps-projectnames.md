@@ -102,7 +102,7 @@ CS4240-9: Cryosurgery Simulator
 # CS4248 Natural Language Processing
 CS4248-1: 14 
 
-CS4248-2: Cross-Cultural Analysis of Sarcasm in News Headlines 
+CS4248-2: Team 25: Sarcastic news headlines (with their own Instagram dataset). 
 
 CS4248-3: Emoji compositions with visual information. 
 
@@ -110,7 +110,7 @@ CS4248-4: Eyes are All You Need
 
 CS4248-5: Can emojis be used to capture meaning? 
 
-CS4248-6: Beyond the Headlines 
+CS4248-6: Team 8: Mixture of Experts in Sarcasm Detection 
 
 CS4248-7: Code Embeddings for RAG 
 
@@ -124,7 +124,7 @@ CS4248-11: Bias-Aware Word Embeddings: Leveraging ConceptNet for Fairer and Effi
 
 CS4248-12: Beyond the Literal: Unmasking Sarcasm with Sentiment-Informed AI 
 
-CS4248-14: Oh sure that's definitely not sarcasm 
+CS4248-14: 32: Oh sure that's definitely not sarcasm 
 
 CS4248-15: 16: NLP model on the News Headlines Dataset For Sarcasm Detection 
 

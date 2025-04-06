@@ -477,7 +477,7 @@
         "videoLink": ""
     },
     "CS4248-2": {
-        "name": "Cross-Cultural Analysis of Sarcasm in News Headlines",
+        "name": "Team 25: Sarcastic news headlines (with their own Instagram dataset).",
         "members": [
             "Benson Ang Wei Kiat",
             "Aslam",
@@ -523,14 +523,17 @@
         "videoLink": ""
     },
     "CS4248-6": {
-        "name": "Beyond the Headlines",
+        "name": "Team 8: Mixture of Experts in Sarcasm Detection",
         "members": [
             "Vigneshwar Hariharan",
             "Vaishnav Muralidharan",
             "OWEN YAP YUHAN",
             "Zhao Keyi",
             "Zhou Pengji",
-            "Yang Leyuan"
+            "Yang Leyuan",
+            "Owen Yap Yuhan",
+            "Vaishnav Muralidharan",
+            "Vigneshwar Hariharan"
         ],
         "videoLink": ""
     },
@@ -606,13 +609,15 @@
         "videoLink": ""
     },
     "CS4248-14": {
-        "name": "Oh sure that's definitely not sarcasm",
+        "name": "32: Oh sure that's definitely not sarcasm",
         "members": [
             "Chong Tze Yan",
             "Da Jiaxuan",
             "Yu Chenbo",
             "Wang Xinrong",
             "Samuel Then Shi Jie",
+            "Shanmugam Udhaya",
+            "Yu Chenbo",
             "Shanmugam Udhaya"
         ],
         "videoLink": ""
