@@ -13,8 +13,8 @@ csvwriter = csv.writer(csvDATAFILE)
 defaultCERTORDERUNDERGRAD = ["Best Project", "Second Prize", "Third Prize"]
 defaultCERTORDERGRAD = "Honorable Mention"
 defaultCERTNUMBER = 3
-undergradSIGN = "theundergradMAN"
-gradSIGN = "thegradMAN"
+undergradSIGN = "Prof. Kan Min Yen\nVice Dean, Undergraduate Studies\nVice Dean, Academic Affairs"
+gradSIGN = "Prof. Chan Mun Choon\nVice Dean, Graduate Studies"
 csvwriter.writerow(["Course Names and Heads", "Project Name", "Winner Name", "Award", "Signature"])
 for courseCODE, courseELEMENTS in theMASTERDATAJSON.items():
 
