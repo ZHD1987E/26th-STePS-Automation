@@ -9,7 +9,7 @@ import json
 
 def do_download(url, filename):
     ydl_opts = {
-        'format': 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]',  # Best MP4 quality
+        'format': 'best',
         'outtmpl': f'videos/{filename}.mp4',  # Custom filename
         'merge_output_format': 'mp4'   # Ensure MP4 output
     }
