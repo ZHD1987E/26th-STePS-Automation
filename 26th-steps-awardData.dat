@@ -2,41 +2,49 @@
     "CP3108": {
         "name": "CP3108 Independent Work (Chair: A/Prof. Martin Henz)",
         "maxCerts": 3,
-        "isGraduate": false
+        "isGraduate": false,
+        "ranked": true
     },
     "CS3203": {
         "name": "CS3203 Software Engineering Project (Chair: Dr. Ganesh Neelakanta Iyer)",
         "maxCerts": 1,
-        "isGraduate": false
+        "isGraduate": false,
+        "ranked": true
     },
     "CS3217": {
         "name": "CS3217 Software Engineering on Modern Application Platforms (Chair: Dr. Leong Wai Kay)",
         "maxCerts": 1,
-        "isGraduate": false
+        "isGraduate": false,
+        "ranked": true
     },
     "CS3247": {
         "name": "CS3247 Game Development (Chair: Dr. Bhojan Anand)",
         "maxCerts": 3,
-        "isGraduate": false
+        "isGraduate": false,
+        "ranked": true
     },
     "CS4240": {
         "name": "CS4240 Interaction Design for Virtual and Augmented Reality (Chair: Dr. Bhojan Anand)",
         "maxCerts": 3,
-        "isGraduate": false
+        "isGraduate": false,
+        "ranked": true
     },
     "CS4248": {
         "name": "CS4248 Natural Language Processing (Chair: A/Prof. Min Yen KAN, Dr Christian Von Der Weth)",
         "maxCerts": 3,
-        "isGraduate": false
+        "isGraduate": false,
+        "ranked": true
     },
     "MComp-FYP": {
         "name": "FYP-MComp Final Year Project/MComp Thesis (Chair: A/Prof. Martin Henz, Dr Ganesh Neelakanta Iyer, A/Prof. Bimlesh Wadhwa )",
         "maxCerts": 3,
-        "isGraduate": true
+        "isGraduate": true,
+        "ranked": false
     },
     "IT5007": {
         "name": "IT5007 Software Engineering on Application Architecture (Chair: Dr. Prasanna Karthik Vairam)",
         "maxCerts": 2,
-        "isGraduate": true
+        "isGraduate": true,
+        "ranked": true
     }
 }

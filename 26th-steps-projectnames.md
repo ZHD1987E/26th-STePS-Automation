@@ -3,7 +3,7 @@ CP3108-1: AI-powered marking
 
 CP3108-2: Stepper rewrite 
 
-CP3108-3: Java Visualization 
+CP3108-3: Java CSEC Machine 
 
 CP3108-4: Sessions 
 

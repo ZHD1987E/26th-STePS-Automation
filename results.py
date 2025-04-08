@@ -14,8 +14,8 @@ awardsDATA = open("26th-steps-teamData.dat", "r", encoding = "utf-8")
 awardsJSON = json.load(awardsDATA)
 csvDATAFILE = open("26th-steps-awardees.csv", "w", newline="", encoding = "utf-8")
 csvwriter = csv.writer(csvDATAFILE)
-defaultCERTORDERUNDERGRAD = ["Best Project", "Second Prize", "Third Prize"]
-defaultCERTORDERGRAD = "Honorable Mention"
+defaultCERTORDERRANKED = ["Best Project", "Second Prize", "Third Prize"]
+defaultCERTORDERUNRANKED = "Honorable Mention"
 defaultCERTNUMBER = 3
 undergradSIGN = "Prof. Kan Min Yen\nVice Dean, Undergraduate Studies\nVice Dean, Academic Affairs"
 gradSIGN = "Prof. Chan Mun Choon\nVice Dean, Graduate Studies"
@@ -26,12 +26,14 @@ for course in theAPIJSON:
     courseNAME = theMASTERDATAJSON[courseCODE]["name"]
     isGraduate = theMASTERDATAJSON[courseCODE]["isGraduate"]
     maxAwards = theMASTERDATAJSON[courseCODE]["maxCerts"]
-
+    isRanked = theMASTERDATAJSON[courseCODE]["ranked"]
+    if isRanked:
+        awards = defaultCERTORDERRANKED[:maxAwards]
+    else:
+        awards = [defaultCERTORDERUNRANKED] * maxAwards
     if isGraduate:
-        awards = [defaultCERTORDERGRAD] * maxAwards
         sign = gradSIGN
     else:
-        awards = defaultCERTORDERUNDERGRAD
         sign = undergradSIGN
     
     courseRESULT = list(course["result"].items())

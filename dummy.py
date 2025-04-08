@@ -10,8 +10,8 @@ theMASTERDATA = open("26th-steps-awardData.dat", "r", encoding = "utf-8")
 theMASTERDATAJSON = json.load(theMASTERDATA)
 csvDATAFILE = open("26th-steps-awardees.csv", "w", newline="", encoding = "utf-8")
 csvwriter = csv.writer(csvDATAFILE)
-defaultCERTORDERUNDERGRAD = ["Best Project", "Second Prize", "Third Prize"]
-defaultCERTORDERGRAD = "Honorable Mention"
+defaultCERTORDERRANKED = ["Best Project", "Second Prize", "Third Prize"]
+defaultCERTORDERUNRANKED = "Honorable Mention"
 defaultCERTNUMBER = 3
 undergradSIGN = "Prof. Kan Min Yen\nVice Dean, Undergraduate Studies\nVice Dean, Academic Affairs"
 gradSIGN = "Prof. Chan Mun Choon\nVice Dean, Graduate Studies"
@@ -21,12 +21,14 @@ for courseCODE, courseELEMENTS in theMASTERDATAJSON.items():
     courseNAME = courseELEMENTS["name"]
     isGraduate = courseELEMENTS["isGraduate"]
     maxAwards = courseELEMENTS["maxCerts"]
-
+    isRanked = courseELEMENTS["ranked"]
+    if isRanked:
+        awards = defaultCERTORDERRANKED[:maxAwards]
+    else:
+        awards = [defaultCERTORDERUNRANKED] * maxAwards
     if isGraduate:
-        awards = [defaultCERTORDERGRAD] * maxAwards
         sign = gradSIGN
     else:
-        awards = defaultCERTORDERUNDERGRAD
         sign = undergradSIGN
 
     for order in range(maxAwards):
