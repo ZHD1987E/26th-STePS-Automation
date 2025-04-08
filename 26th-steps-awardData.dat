@@ -31,12 +31,12 @@
     },
     "MComp-FYP": {
         "name": "FYP-MComp Final Year Project/MComp Thesis (Chair: A/Prof. Martin Henz, Dr Ganesh Neelakanta Iyer, A/Prof. Bimlesh Wadhwa )",
-        "maxCerts": 2,
+        "maxCerts": 3,
         "isGraduate": true
     },
     "IT5007": {
         "name": "IT5007 Software Engineering on Application Architecture (Chair: Dr. Prasanna Karthik Vairam)",
-        "maxCerts": 3,
+        "maxCerts": 2,
         "isGraduate": true
     }
 }
