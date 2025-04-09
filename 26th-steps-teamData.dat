@@ -56,7 +56,7 @@
         "videoLink": ""
     },
     "CP3108-8": {
-        "name": "Badges and achievements",
+        "name": "Activity Tracker and User Profile",
         "members": [
             "Foo Fang Han",
             "TEH MING WEI"
@@ -631,6 +631,17 @@
             "Daniel Kok",
             "Eugene Chia",
             "LIN CHIEH"
+        ],
+        "videoLink": ""
+    },
+    "CS4248-16": {
+        "name": "Team 22: Using Influence Functions for LLM Unlearning",
+        "members": [
+            "Alagappan Ramanathan",
+            "Ramu Rithik Vijay",
+            "Lei Zhenyu",
+            "Tan Xinhao",
+            "Wang Shijia"
         ],
         "videoLink": ""
     },

@@ -13,7 +13,7 @@ CP3108-6: CSE machine
 
 CP3108-7: Notebooks 
 
-CP3108-8: Badges and achievements 
+CP3108-8: Activity Tracker and User Profile 
 
 CP3108-9: Leaderboard 
 
@@ -127,6 +127,8 @@ CS4248-12: Beyond the Literal: Unmasking Sarcasm with Sentiment-Informed AI
 CS4248-14: 32: Oh sure that's definitely not sarcasm 
 
 CS4248-15: 16: NLP model on the News Headlines Dataset For Sarcasm Detection 
+
+CS4248-16: Team 22: Using Influence Functions for LLM Unlearning 
 
 # IT5007 Software Engineering on Application Architecture
 # MComp-FYP MComp/MSc/FYP/UROP/CP3106
