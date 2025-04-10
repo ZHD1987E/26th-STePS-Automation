@@ -33,7 +33,7 @@ CP3108-16: Exam mode for Source Academy
 
 CP3108-17: brwne 
 
-CP3108-18: Pie in Source Academy 
+CP3108-18: Dependent Type in Source Academy 
 
 # CS3203 Software Engineering Project
 CS3203-1: TravelWise 
@@ -68,11 +68,11 @@ CS3247-8: Dungeon Slayer
 
 CS3247-9: Ten Lives 
 
-CS3247-10: Unknown 
+CS3247-10: Project: SEELE 
 
 CS3247-11: Heaven's Trial 
 
-CS3247-12: Unknown 
+CS3247-12: Castle Defence 
 
 CS3247-13: The Endless Halls 
 
@@ -86,8 +86,6 @@ CS4240-1: FlowZone
 CS4240-2: StomaSim 
 
 CS4240-3: VRCare 
-
-CS4240-4: Unknown 
 
 CS4240-5: Immersi-Fit 
 
@@ -124,7 +122,7 @@ CS4248-11: Bias-Aware Word Embeddings: Leveraging ConceptNet for Fairer and Effi
 
 CS4248-12: Beyond the Literal: Unmasking Sarcasm with Sentiment-Informed AI 
 
-CS4248-14: 32: Oh sure that's definitely not sarcasm 
+CS4248-14: Team 32: Not Just Deep: Contrastive Learning for Feature-Driven Sarcasm Classification 
 
 CS4248-15: 16: NLP model on the News Headlines Dataset For Sarcasm Detection 
 

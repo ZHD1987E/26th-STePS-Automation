@@ -45,7 +45,7 @@
             "ALSON LEE JIAN YANG",
             "Yang Boxiang"
         ],
-        "videoLink": ""
+        "videoLink": "https://www.youtube.com/watch?v=TQqpxOZsZq4"
     },
     "CP3108-7": {
         "name": "Notebooks",
@@ -135,7 +135,7 @@
         "videoLink": "https://www.youtube.com/watch?v=P0z_0gsc51Y"
     },
     "CP3108-18": {
-        "name": "Pie in Source Academy",
+        "name": "Dependent Type in Source Academy",
         "members": [
             "Zhang Qixiang",
             "Li Daoxin",
@@ -172,7 +172,7 @@
             "Yang Xiang",
             "Eugene Tang KangJie"
         ],
-        "videoLink": ""
+        "videoLink": "https://youtu.be/fme-Ay3UhlQ"
     },
     "CS3217-1": {
         "name": "Ah Leong's Farm",
@@ -308,7 +308,7 @@
         "videoLink": ""
     },
     "CS3247-10": {
-        "name": "Unknown",
+        "name": "Project: SEELE",
         "members": [
             "LI XIANGYI",
             "LIU JIABAO",
@@ -331,7 +331,7 @@
         "videoLink": ""
     },
     "CS3247-12": {
-        "name": "Unknown",
+        "name": "Castle Defence",
         "members": [
             "CHEN MUZI",
             "HILL BRENNEN ALEXANDER",
@@ -403,13 +403,6 @@
         ],
         "videoLink": ""
     },
-    "CS4240-4": {
-        "name": "Unknown",
-        "members": [
-            "TAN CHANGJIE"
-        ],
-        "videoLink": ""
-    },
     "CS4240-5": {
         "name": "Immersi-Fit",
         "members": [
@@ -420,7 +413,7 @@
             "TAY JIA YING",
             "WONG WEI TING"
         ],
-        "videoLink": ""
+        "videoLink": "https://youtu.be/WFj7Wshu0JM"
     },
     "CS4240-6": {
         "name": "LexiCrash",
@@ -443,7 +436,7 @@
             "Xu Yi",
             "Xu Yi"
         ],
-        "videoLink": ""
+        "videoLink": "https://youtu.be/8kBxG7g7Pcg"
     },
     "CS4240-8": {
         "name": "Spine3D",
@@ -610,7 +603,7 @@
         "videoLink": ""
     },
     "CS4248-14": {
-        "name": "32: Oh sure that's definitely not sarcasm",
+        "name": "Team 32: Not Just Deep: Contrastive Learning for Feature-Driven Sarcasm Classification",
         "members": [
             "Chong Tze Yan",
             "Da Jiaxuan",
@@ -742,14 +735,14 @@
             "Tham Rui Cong",
             "Tang Bo Kuan"
         ],
-        "videoLink": "https://youtu.be/moA02pM6dp8"
+        "videoLink": "https://youtu.be/UtoMkL37Vlw"
     },
     "MComp-FYP-14": {
         "name": "Coursemology RagWise Auto Forum Response",
         "members": [
             "Png Yi Wei Jonas"
         ],
-        "videoLink": "https://youtu.be/0ZTl1XeQAU4"
+        "videoLink": "https://youtu.be/alO8WSEig1M"
     },
     "MComp-FYP-15": {
         "name": "Adaptive Quiz and Programming Assignment Platform for Self-Guided AI Learning & Education",
