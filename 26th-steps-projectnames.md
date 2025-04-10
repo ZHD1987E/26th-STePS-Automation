@@ -102,7 +102,7 @@ CS4240-9: Cryosurgery Simulator
 # CS4248 Natural Language Processing
 CS4248-1: [Team 14] Resolving Polysemous Words: Evaluating WSD in Neural Machine Translation 
 
-CS4248-2: Team 25: Sarcastic news headlines (with their own Instagram dataset). 
+CS4248-2: Team 25: Cross-Cultural Analysis of Sarcasm in News Headlines 
 
 CS4248-3: Emoji compositions with visual information. 
 
