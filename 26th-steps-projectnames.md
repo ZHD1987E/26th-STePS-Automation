@@ -29,7 +29,7 @@ CP3108-14: Scheme edition of SICP
 
 CP3108-15: FFT for Sound Processing 
 
-CP3108-16: Exam mode for Source Academy 
+CP3108-16: Exam Mode for Source Academy 
 
 CP3108-17: brwne 
 
@@ -50,7 +50,7 @@ CS3217-2: TokiToki
 CS3217-3: Alice In Boredom Land 
 
 # CS3247 Game Development
-CS3247-1: Age of Antpires 
+CS3247-1: Ant Passant 
 
 CS3247-2: Hours Between 
 
@@ -102,13 +102,13 @@ CS4248-1: [Team 14] Resolving Polysemous Words: Evaluating WSD in Neural Machine
 
 CS4248-2: Team 25: Cross-Cultural Analysis of Sarcasm in News Headlines 
 
-CS4248-3: Emoji compositions with visual information. 
+CS4248-3: Large Language Models'  Emoji Composition Understanding with Visual Information 
 
 CS4248-4: Eyes are All You Need 
 
 CS4248-5: Can emojis be used to capture meaning? 
 
-CS4248-6: Team 8: Mixture of Experts in Sarcasm Detection 
+CS4248-6: Team 8: Beyond the Headlines 
 
 CS4248-7: Code Embeddings for RAG 
 
@@ -124,11 +124,15 @@ CS4248-12: Beyond the Literal: Unmasking Sarcasm with Sentiment-Informed AI
 
 CS4248-14: Team 32: Not Just Deep: Contrastive Learning for Feature-Driven Sarcasm Classification 
 
-CS4248-15: 16: NLP model on the News Headlines Dataset For Sarcasm Detection 
+CS4248-15: Team 15: Decoding Sarcasm, A Hybrid NLP Approach to Support Neurodivergent Individuals through Enhanced Model Training and Data Strategies 
 
 CS4248-16: Team 22: Using Influence Functions for LLM Unlearning 
 
 # IT5007 Software Engineering on Application Architecture
+IT5007-1: IdentiPhish 
+
+IT5007-2: Popcorn Language 
+
 # MComp-FYP MComp/MSc/FYP/UROP/CP3106
 MComp-FYP-1: Power management for Prahu Matahari 
 
@@ -142,13 +146,13 @@ MComp-FYP-5: Go in Source Academy
 
 MComp-FYP-6: Java in Source Academy 
 
-MComp-FYP-7: Source Academy as Visual Studio Code Extension 
+MComp-FYP-7: Source Academy as a VS Code Extension 
 
 MComp-FYP-8: Meta Mesh 
 
 MComp-FYP-9: Dynamic Difficulty Adjustment in VR Exergame 
 
-MComp-FYP-10: iReflect: Enhancing Play-Testing and Self-Reflection with LLMs 
+MComp-FYP-10: iReflect: Enhancing Playtesting and Reflective Writing with LLMs 
 
 MComp-FYP-11: Game Asset Generative AI Pipeline 
 

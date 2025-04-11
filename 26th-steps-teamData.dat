@@ -84,7 +84,7 @@
             "Justin Cheng Ming Hearn",
             "Koh Wai Kei"
         ],
-        "videoLink": ""
+        "videoLink": "https://youtu.be/KyLC6K7A1Vw"
     },
     "CP3108-12": {
         "name": "SICP JS Internationalization",
@@ -119,7 +119,7 @@
         "videoLink": ""
     },
     "CP3108-16": {
-        "name": "Exam mode for Source Academy",
+        "name": "Exam Mode for Source Academy",
         "members": [
             "Florian Viorel Tanely",
             "Khor Kah Seng"
@@ -203,7 +203,7 @@
         "videoLink": ""
     },
     "CS3247-1": {
-        "name": "Age of Antpires",
+        "name": "Ant Passant",
         "members": [
             "Chua Wei En Zechary",
             "CLIFF KOES",
@@ -212,7 +212,7 @@
             "ROYDEN SOH WEI JUN",
             "SOON WENG FOON TIMOTHY"
         ],
-        "videoLink": ""
+        "videoLink": "https://youtu.be/kcRZT_nY-ls"
     },
     "CS3247-2": {
         "name": "Hours Between",
@@ -377,7 +377,7 @@
             "NG WEI CHONG JAVIER",
             "SONG MENGFEI"
         ],
-        "videoLink": ""
+        "videoLink": "https://youtu.be/-lT975akdzI"
     },
     "CS4240-2": {
         "name": "StomaSim",
@@ -457,7 +457,7 @@
             "JULIA CHRISTY PURBA",
             "Ryo Hilmawan"
         ],
-        "videoLink": "https://youtu.be/HZJUOKquCMg"
+        "videoLink": "https://youtu.be/Hklds7-nDoc"
     },
     "CS4248-1": {
         "name": "[Team 14] Resolving Polysemous Words: Evaluating WSD in Neural Machine Translation",
@@ -483,7 +483,7 @@
         "videoLink": ""
     },
     "CS4248-3": {
-        "name": "Emoji compositions with visual information.",
+        "name": "Large Language Models'  Emoji Composition Understanding with Visual Information",
         "members": [
             "ZHANG JIASHENG",
             "Bao Mingyang",
@@ -517,7 +517,7 @@
         "videoLink": ""
     },
     "CS4248-6": {
-        "name": "Team 8: Mixture of Experts in Sarcasm Detection",
+        "name": "Team 8: Beyond the Headlines",
         "members": [
             "Vigneshwar Hariharan",
             "Vaishnav Muralidharan",
@@ -569,11 +569,11 @@
     "CS4248-10": {
         "name": "Automating Intuition: Predicting ConceptNet Path Quality with Language Models",
         "members": [
-            "Caleb Chan Jia Le",
             "Fong Yi Yong Calvin",
             "Nguyen Khoi Nguyen",
             "Luo Jiale",
-            "Lu Haomeng"
+            "Lu Haomeng",
+            "Chan Caleb"
         ],
         "videoLink": ""
     },
@@ -617,7 +617,7 @@
         "videoLink": ""
     },
     "CS4248-15": {
-        "name": "16: NLP model on the News Headlines Dataset For Sarcasm Detection",
+        "name": "Team 15: Decoding Sarcasm, A Hybrid NLP Approach to Support Neurodivergent Individuals through Enhanced Model Training and Data Strategies",
         "members": [
             "Goh Jun Yi",
             "Fong Yih Jie",
@@ -635,6 +635,24 @@
             "Lei Zhenyu",
             "Tan Xinhao",
             "Wang Shijia"
+        ],
+        "videoLink": ""
+    },
+    "IT5007-1": {
+        "name": "IdentiPhish",
+        "members": [
+            "Ng Kai Yan",
+            "Hu Linyuan",
+            "Livvi Sim Li Wei"
+        ],
+        "videoLink": ""
+    },
+    "IT5007-2": {
+        "name": "Popcorn Language",
+        "members": [
+            "Long Ke",
+            "He Mingxuan \ufffd",
+            "Cao Xingran"
         ],
         "videoLink": ""
     },
@@ -681,7 +699,7 @@
         "videoLink": ""
     },
     "MComp-FYP-7": {
-        "name": "Source Academy as Visual Studio Code Extension",
+        "name": "Source Academy as a VS Code Extension",
         "members": [
             "Tiang Hui Zheng"
         ],
@@ -703,7 +721,7 @@
         "videoLink": ""
     },
     "MComp-FYP-10": {
-        "name": "iReflect: Enhancing Play-Testing and Self-Reflection with LLMs",
+        "name": "iReflect: Enhancing Playtesting and Reflective Writing with LLMs",
         "members": [
             "KOH TEE SING NEWTON",
             "Yu Wenli",
