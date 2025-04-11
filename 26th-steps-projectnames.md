@@ -23,7 +23,7 @@ CP3108-11: Programming components in Source Academy Game
 
 CP3108-12: SICP JS Internationalization 
 
-CP3108-13: AI bots for CS1101S and SICP JS 
+CP3108-13: PIXEL: Mastery Check AI Bot for CS1101S 
 
 CP3108-14: Scheme edition of SICP 
 
@@ -144,11 +144,11 @@ MComp-FYP-6: Java in Source Academy
 
 MComp-FYP-7: Source Academy as Visual Studio Code Extension 
 
-MComp-FYP-8: Unknown 
+MComp-FYP-8: Meta Mesh 
 
 MComp-FYP-9: Dynamic Difficulty Adjustment in VR Exergame 
 
-MComp-FYP-10: Unknown 
+MComp-FYP-10: iReflect: Enhancing Play-Testing and Self-Reflection with LLMs 
 
 MComp-FYP-11: Game Asset Generative AI Pipeline 
 
