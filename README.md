@@ -20,7 +20,7 @@ Hopefully, with integration to UVENTS' awards system, it is now possible to full
 
 If you are contacting **regarding the event**, please contact [Anand Bhojan](mailto:bhojan@comp.nus.edu.sg). **DO NOT CONTACT ME.**
 
-If you are contacting **regarding this repository**, please contact me through [Telegram](t.me/zhd1987e), or [email](mailto:zhanghaodong101@outlook.com), or even through [Facebook](https://www.facebook.com/ZhangHaoDongOfficial/).
+If you are contacting **regarding this repository**, please contact me through [Telegram](https://t.me/zhd1987e), or [email](mailto:zhanghaodong101@outlook.com), or even through [Facebook](https://www.facebook.com/ZhangHaoDongOfficial/).
 
 Of course, you can always find me on GitHub.
 
