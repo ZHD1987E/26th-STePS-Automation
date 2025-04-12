@@ -2,7 +2,7 @@
 
 The 25th STePS had this *autoscraper* to automate document generation workflows.
 
-This time round, I decided to extend this to the 26th STePS because there may be even more groups to deal with! In fact, this edition has 69 teams (as of 27 March 2025) compared to 43 teams in the previous iteration.
+This time round, I decided to extend this to the 26th STePS because there may be even more groups to deal with! In fact, this edition has 87 teams compared to 43 teams in the previous iteration.
 
 Since NUS Computing will celebrate some anniversary this time round (and they have hosted the [APAC ICPC](https://apac.icpc.global/) likely for this reason), they might choose to ramp up the number of teams exhibiting with more courses on show. That means a lot of work for staff members! Of course, there was a time that 120+ teams exhibited for this project fair and it required a lot of space to execute.
 
@@ -12,7 +12,7 @@ Therefore, to ease that workflow (especially if 100+ teams were to exhibit at on
 
 Then, someone told me that it's possible to now get the API instead of scraping web data, which means that data syncing can now be done much faster.
 
-From then, it was pretty much a migration over to direct API use, and with the fix to Pytube, it is now possible for me to download videos with a single run of a Python script.
+From then, it was pretty much a migration over to direct API use, and with the fix to YT_DLP (previously PyTube but doing so is slow), it is now possible for me to download videos with a single run of a Python script.
 
 Since the awarding system ALSO uses the same API, it is now able to generate certificates on the fly. Cheers to having less manpower!
 
