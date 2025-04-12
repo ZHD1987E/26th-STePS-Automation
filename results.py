@@ -14,6 +14,7 @@ awardsDATA = open("26th-steps-teamData.dat", "r", encoding = "utf-8")
 awardsJSON = json.load(awardsDATA)
 csvDATAFILE = open("26th-steps-awardees.csv", "w", newline="", encoding = "utf-8")
 csvwriter = csv.writer(csvDATAFILE)
+theWinningTeams = open("26th-steps-winningteams.md", "w")
 defaultCERTORDERRANKED = ["Best Project", "Second Prize", "Third Prize"]
 defaultCERTORDERUNRANKED = "Honorable Mention"
 defaultCERTNUMBER = 3
@@ -27,6 +28,7 @@ for course in theAPIJSON:
     isGraduate = theMASTERDATAJSON[courseCODE]["isGraduate"]
     maxAwards = theMASTERDATAJSON[courseCODE]["maxCerts"]
     isRanked = theMASTERDATAJSON[courseCODE]["ranked"]
+    theWinningTeams.write(f"# {courseNAME}\n")
     if isRanked:
         awards = defaultCERTORDERRANKED[:maxAwards]
     else:
@@ -41,12 +43,14 @@ for course in theAPIJSON:
     courseRESULT = list(map(lambda e: f"{courseCODE}-{e[0]}", courseRESULT[:maxAwards]))
 
     for order in range(maxAwards):
-        courseAWARDDATA = awardsJSON[courseRESULT[order]]
+        projectCODE = courseRESULT[order]
+        courseAWARDDATA = awardsJSON[projectCODE]
         winnerNAME = courseAWARDDATA["name"]
         winnerMEMBERS = courseAWARDDATA["members"]
         winnerAWARD = awards[order]
-
+        theWinningTeams.write(f"**{winnerAWARD} ({projectCODE})** - {winnerNAME}\n\n")
         for member in winnerMEMBERS:
             csvwriter.writerow([courseNAME, winnerNAME, member, winnerAWARD, sign])
 
 csvDATAFILE.close()
+theWinningTeams.close()
