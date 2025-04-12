@@ -14,7 +14,7 @@ Then, someone told me that it's possible to now get the API instead of scraping 
 
 From then, it was pretty much a migration over to direct API use, and with the fix to Pytube, it is now possible for me to download videos with a single run of a Python script.
 
-Hopefully, with integration to UVENTS' awards system, it is now possible to fully automate the generation of certificates, thereby reducing the manpower needed.
+Since the awarding system ALSO uses the same API, it is now able to generate certificates on the fly. Cheers to having less manpower!
 
 # Cool, who should I contact?
 
