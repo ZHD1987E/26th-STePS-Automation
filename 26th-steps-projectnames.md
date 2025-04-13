@@ -108,7 +108,7 @@ CS4248-4: Eyes are All You Need
 
 CS4248-5: Can emojis be used to capture meaning? 
 
-CS4248-6: Team 8: Beyond the Headlines 
+CS4248-6: Beyond the Headlines: Identifying Sarcasm in News Headlines 
 
 CS4248-7: Code Embeddings for RAG 
 

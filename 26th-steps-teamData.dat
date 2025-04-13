@@ -151,7 +151,7 @@
             "Toh Heng Xing",
             "Sivakumar Aishvarya"
         ],
-        "videoLink": ""
+        "videoLink": "https://youtu.be/d5W1DVgwms4"
     },
     "CS3203-2": {
         "name": "IamDB",
@@ -389,7 +389,7 @@
             "Zhang Mengjie",
             "CUI SHEN YI"
         ],
-        "videoLink": ""
+        "videoLink": "https://youtu.be/rPIvV7fGXfo"
     },
     "CS4240-3": {
         "name": "VRCare",
@@ -517,7 +517,7 @@
         "videoLink": ""
     },
     "CS4248-6": {
-        "name": "Team 8: Beyond the Headlines",
+        "name": "Beyond the Headlines: Identifying Sarcasm in News Headlines",
         "members": [
             "Vigneshwar Hariharan",
             "Vaishnav Muralidharan",
