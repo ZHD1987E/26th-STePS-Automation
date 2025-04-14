@@ -98,7 +98,7 @@ CS4240-8: Spine3D
 CS4240-9: Cryosurgery Simulator 
 
 # CS4248 Natural Language Processing
-CS4248-1: [Team 14] Resolving Polysemous Words: Evaluating WSD in Neural Machine Translation 
+CS4248-1: [Team 14] Resolving Polysemous Words in Neural Machine Translation 
 
 CS4248-2: Team 25: Cross-Cultural Analysis of Sarcasm in News Headlines 
 
@@ -164,5 +164,5 @@ MComp-FYP-14: Coursemology RagWise Auto Forum Response
 
 MComp-FYP-15: Adaptive Quiz and Programming Assignment Platform for Self-Guided AI Learning & Education 
 
-MComp-FYP-16: Pebble: Adaptive Self-Learning Platform 
+MComp-FYP-16: Pebble 
 

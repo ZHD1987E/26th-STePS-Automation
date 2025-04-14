@@ -229,12 +229,12 @@
     "CS3247-3": {
         "name": "Zombie Vortex",
         "members": [
-            "Guo Jingxiang",
             "LIANG YIFAN",
             "LIU YIWEI",
             "ONG JIA JUN CLIF",
             "SUN ALECK BOWEN",
-            "XU ZHAOHUA"
+            "XU ZHAOHUA",
+            "Guo Jingxiang"
         ],
         "videoLink": ""
     },
@@ -259,7 +259,7 @@
             "LEE YAN HAN",
             "LIVIA MICHELLE ISKANDAR LEO"
         ],
-        "videoLink": ""
+        "videoLink": "https://youtu.be/frfxRJFYle0"
     },
     "CS3247-6": {
         "name": "Ravening",
@@ -316,7 +316,7 @@
             "Luo Haoyu",
             "WANG YUYANG"
         ],
-        "videoLink": ""
+        "videoLink": "https://youtu.be/Ku0Hf-VadXI"
     },
     "CS3247-11": {
         "name": "Heaven's Trial",
@@ -419,13 +419,13 @@
         "name": "LexiCrash",
         "members": [
             "ANG JUN YANG",
-            "Guo Jingxiang",
             "Ku Zi-Yi Elijah",
             "SHEN ZHENNAN",
             "XU ZHAOHUA",
-            "YANG KAI"
+            "YANG KAI",
+            "Guo Jingxiang"
         ],
-        "videoLink": ""
+        "videoLink": "https://youtu.be/kVOLBLp4PdM"
     },
     "CS4240-7": {
         "name": "Meltdown",
@@ -433,7 +433,6 @@
             "CHONG XIAO XUAN",
             "Florentiana Yuwono",
             "MELISSA ANASTASIA HARIJANTO",
-            "Xu Yi",
             "Xu Yi"
         ],
         "videoLink": "https://youtu.be/8kBxG7g7Pcg"
@@ -460,7 +459,7 @@
         "videoLink": "https://youtu.be/Hklds7-nDoc"
     },
     "CS4248-1": {
-        "name": "[Team 14] Resolving Polysemous Words: Evaluating WSD in Neural Machine Translation",
+        "name": "[Team 14] Resolving Polysemous Words in Neural Machine Translation",
         "members": [
             "Justin Cheah Yun Fei",
             "Yeo Zi Yi",
@@ -771,7 +770,7 @@
         "videoLink": ""
     },
     "MComp-FYP-16": {
-        "name": "Pebble: Adaptive Self-Learning Platform",
+        "name": "Pebble",
         "members": [
             "Anjali Agarwal",
             "Pratham Jain"
