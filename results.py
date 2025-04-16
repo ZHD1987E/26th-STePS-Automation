@@ -54,9 +54,9 @@ for course in theAPIJSON:
         for winner in ranked[e]:
             projectKEY = courseCODE + "-" + winner[0]
             projectNAME = awardsJSON[projectKEY]["name"]
-            theWinningTeams.write(f"**{awards[e]} ({projectKEY})** - {projectNAME}\n")
+            theWinningTeams.write(f"**{awards[e]} ({projectKEY})** - {projectNAME}\n\n")
             for member in awardsJSON[projectKEY]["members"]:
-                csvDATAFILE.write(f"{courseNAME}, {projectNAME}, {member}, {awards[e]}\n")
+                csvwriter.writerow([courseNAME, projectNAME, member, awards[e]])
 
 csvDATAFILE.close()
 theWinningTeams.close()
