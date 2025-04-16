@@ -18,9 +18,7 @@ theWinningTeams = open("26th-steps-winningteams.md", "w")
 defaultCERTORDERRANKED = ["Best Project", "Second Prize", "Third Prize"]
 defaultCERTORDERUNRANKED = "Honorable Mention"
 defaultCERTNUMBER = 3
-undergradSIGN = "Prof. Kan Min Yen\nVice Dean, Undergraduate Studies\nVice Dean, Academic Affairs"
-gradSIGN = "Prof. Chan Mun Choon\nVice Dean, Graduate Studies"
-csvwriter.writerow(["Course Names and Heads", "Project Name", "Winner Name", "Award", "Signature"])
+csvwriter.writerow(["Course Names and Heads", "Project Name", "Winner Name", "Award"])
 for course in theAPIJSON:
     courseCODE = course["module"]
 
@@ -33,24 +31,32 @@ for course in theAPIJSON:
         awards = defaultCERTORDERRANKED[:maxAwards]
     else:
         awards = [defaultCERTORDERUNRANKED] * maxAwards
-    if isGraduate:
-        sign = gradSIGN
-    else:
-        sign = undergradSIGN
     
     courseRESULT = list(course["result"].items())
     courseRESULT.sort(key = lambda x: x[1], reverse = True)
-    courseRESULT = list(map(lambda e: f"{courseCODE}-{e[0]}", courseRESULT[:maxAwards]))
+    ranked = []
+    current_group = []
+    prev_score = None
 
-    for order in range(maxAwards):
-        projectCODE = courseRESULT[order]
-        courseAWARDDATA = awardsJSON[projectCODE]
-        winnerNAME = courseAWARDDATA["name"]
-        winnerMEMBERS = courseAWARDDATA["members"]
-        winnerAWARD = awards[order]
-        theWinningTeams.write(f"**{winnerAWARD} ({projectCODE})** - {winnerNAME}\n\n")
-        for member in winnerMEMBERS:
-            csvwriter.writerow([courseNAME, winnerNAME, member, winnerAWARD, sign])
+    for item in courseRESULT:
+        if item[1] != prev_score:
+            if current_group:
+                ranked.append(current_group)
+            current_group = [item]
+            prev_score = item[1]
+        else:
+            current_group.append(item)
+
+    # Add the last group
+    if current_group:
+        ranked.append(current_group)
+    for e in range(maxAwards):
+        for winner in ranked[e]:
+            projectKEY = courseCODE + "-" + winner[0]
+            projectNAME = awardsJSON[projectKEY]["name"]
+            theWinningTeams.write(f"**{awards[e]} ({projectKEY})** - {projectNAME}\n")
+            for member in awardsJSON[projectKEY]["members"]:
+                csvDATAFILE.write(f"{courseNAME}, {projectNAME}, {member}, {awards[e]}\n")
 
 csvDATAFILE.close()
 theWinningTeams.close()
