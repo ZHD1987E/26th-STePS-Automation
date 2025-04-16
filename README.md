@@ -18,7 +18,7 @@ Since the awarding system ALSO uses the same API, it is now able to generate cer
 
 # Cool, who should I contact?
 
-If you are contacting **regarding the event**, please contact [Anand Bhojan](mailto:bhojan@comp.nus.edu.sg). **DO NOT CONTACT ME.**
+If you are contacting **regarding the event**, please contact [Anand Bhojan](mailto:dcsab@nus.edu.sg). **DO NOT CONTACT ME.**
 
 If you are contacting **regarding this repository**, please contact me through [Telegram](https://t.me/zhd1987e), or [email](mailto:zhanghaodong101@outlook.com), or even through [Facebook](https://www.facebook.com/ZhangHaoDongOfficial/).
 
