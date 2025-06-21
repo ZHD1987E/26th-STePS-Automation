@@ -30,10 +30,11 @@ for track in theJSON:
         # Going through each 'project' in a 'track'
         projectNAME = project["name"]
         projectVIDEOURL = project["videoLink"]
+        projectPOSTERURL = project["posterLink"]
         projectMEMBERS = list(map(lambda x: nameDCT[x], project["members"]))
         projectNUMBER = project["refId"]
         f2.write(f"{trackCODE}-{projectNUMBER}: {projectNAME} \n\n")
-        awardJSONDATA[f"{trackCODE}-{projectNUMBER}"] = {"name": projectNAME, "members": projectMEMBERS, "videoLink": projectVIDEOURL}
+        awardJSONDATA[f"{trackCODE}-{projectNUMBER}"] = {"name": projectNAME, "members": projectMEMBERS, "videoLink": projectVIDEOURL, "posterLink": projectPOSTERURL}
 
 f4.write(json.dumps(awardJSONDATA, indent = 4))
 ## Closing the files

@@ -5,7 +5,8 @@
             "Eugene Oh Yun Zheng",
             "R Arulkumaran"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": "https://i.imgur.com/TJcTUuy.png"
     },
     "CP3108-2": {
         "name": "Stepper rewrite",
@@ -13,7 +14,8 @@
             "Kavishwer Sathiamorthy",
             "Kosolpattanadurong Thitiwat"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": "https://imgur.com/x65qXCj.png"
     },
     "CP3108-3": {
         "name": "Java CSEC Machine",
@@ -21,7 +23,8 @@
             "Sovasaria Isha",
             "Mattheus Cheong Chi En"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": "https://www.comp.nus.edu.sg/~mattcce/public/poster.png"
     },
     "CP3108-4": {
         "name": "Sessions",
@@ -29,7 +32,8 @@
             "Lee Kai Xuan",
             "Gary Axel Muliyono"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": "https://imgur.com/OClXUXS.jpeg"
     },
     "CP3108-5": {
         "name": "C compiler",
@@ -37,7 +41,8 @@
             "DO TRONG UIY",
             "Choo Yu Xiang, Morpheus"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": "https://files.catbox.moe/2rv329.png"
     },
     "CP3108-6": {
         "name": "CSE machine",
@@ -45,7 +50,8 @@
             "ALSON LEE JIAN YANG",
             "Yang Boxiang"
         ],
-        "videoLink": "https://www.youtube.com/watch?v=TQqpxOZsZq4"
+        "videoLink": "https://www.youtube.com/watch?v=TQqpxOZsZq4",
+        "posterLink": "https://imgur.com/dXFunb9.jpg"
     },
     "CP3108-7": {
         "name": "Notebooks",
@@ -53,7 +59,8 @@
             "Desmond Wong Hui Sheng",
             "Huang Kaijuan Joulene"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": "https://i.imgur.com/S1Nkpml.png"
     },
     "CP3108-8": {
         "name": "Activity Tracker and User Profile",
@@ -61,7 +68,8 @@
             "Foo Fang Han",
             "TEH MING WEI"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": "https://i.imgur.com/bOsPave.png"
     },
     "CP3108-9": {
         "name": "Leaderboard",
@@ -69,14 +77,16 @@
             "Si Wen Xuan, Terry",
             "TOH YI ZHONG"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": ""
     },
     "CP3108-10": {
         "name": "LSP implementations for VS Code",
         "members": [
             "Aloysius Goo Shao Quan"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": "https://files.catbox.moe/wacaif.png"
     },
     "CP3108-11": {
         "name": "Programming components in Source Academy Game",
@@ -84,7 +94,8 @@
             "Justin Cheng Ming Hearn",
             "Koh Wai Kei"
         ],
-        "videoLink": "https://youtu.be/KyLC6K7A1Vw"
+        "videoLink": "https://youtu.be/KyLC6K7A1Vw",
+        "posterLink": "https://i.imgur.com/dueELiC.jpeg"
     },
     "CP3108-12": {
         "name": "SICP JS Internationalization",
@@ -92,7 +103,8 @@
             "HE HAODONG",
             "HON YI HAO"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": "https://i.imgur.com/IOikMBs.png"
     },
     "CP3108-13": {
         "name": "PIXEL: Mastery Check AI Bot for CS1101S",
@@ -100,7 +112,8 @@
             "Roger Lim Bo Zu",
             "Javier Enrique Wong"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": "https://imgur.com/0vT5fz3.jpeg"
     },
     "CP3108-14": {
         "name": "Scheme edition of SICP",
@@ -108,7 +121,8 @@
             "Jerome Goh Yue En",
             "JIANG ZICHEN"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": ""
     },
     "CP3108-15": {
         "name": "FFT for Sound Processing",
@@ -116,7 +130,8 @@
             "Tran Gia Huy",
             "STUART LIM YI XIONG"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": "https://files.catbox.moe/91ugbw.png"
     },
     "CP3108-16": {
         "name": "Exam Mode for Source Academy",
@@ -124,7 +139,8 @@
             "Florian Viorel Tanely",
             "Khor Kah Seng"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": "https://i.imgur.com/NGRLAtt.png"
     },
     "CP3108-17": {
         "name": "brwne",
@@ -132,7 +148,8 @@
             "Simantak Vaibhavkumar Dabhade",
             "RAHUL VENKATA MALLAVARAPU"
         ],
-        "videoLink": "https://www.youtube.com/watch?v=P0z_0gsc51Y"
+        "videoLink": "https://www.youtube.com/watch?v=P0z_0gsc51Y",
+        "posterLink": ""
     },
     "CP3108-18": {
         "name": "Dependent Type in Source Academy",
@@ -141,7 +158,8 @@
             "Li Daoxin",
             "Ding Feng"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": "https://i.imgur.com/UTsvYql.png"
     },
     "CS3203-1": {
         "name": "TravelWise",
@@ -151,7 +169,8 @@
             "Toh Heng Xing",
             "Sivakumar Aishvarya"
         ],
-        "videoLink": "https://youtu.be/d5W1DVgwms4"
+        "videoLink": "https://youtu.be/d5W1DVgwms4",
+        "posterLink": "https://i.imgur.com/Z4U16BR.jpeg"
     },
     "CS3203-2": {
         "name": "IamDB",
@@ -162,7 +181,8 @@
             "Ong Weng Qi",
             "Nam Harin"
         ],
-        "videoLink": "https://www.youtube.com/watch?v=evS4lNK0rC0"
+        "videoLink": "https://www.youtube.com/watch?v=evS4lNK0rC0",
+        "posterLink": "https://i.imgur.com/pn2AXS7.jpg"
     },
     "CS3203-3": {
         "name": "Just Yap!",
@@ -172,7 +192,8 @@
             "Yang Xiang",
             "Eugene Tang KangJie"
         ],
-        "videoLink": "https://youtu.be/fme-Ay3UhlQ"
+        "videoLink": "https://youtu.be/fme-Ay3UhlQ",
+        "posterLink": "https://imgur.com/lt2rh9O.png"
     },
     "CS3217-1": {
         "name": "Ah Leong's Farm",
@@ -182,7 +203,8 @@
             "Ong Pei Cong Lester",
             "Carmen Ang"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": "https://i.imgur.com/umBymbA.png"
     },
     "CS3217-2": {
         "name": "TokiToki",
@@ -192,7 +214,8 @@
             "KANG WENHAN",
             "PAWAN KISHOR PATIL"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": "https://i.postimg.cc/15nbbbsq/photo-6339235909601446791-y.jpg"
     },
     "CS3217-3": {
         "name": "Alice In Boredom Land",
@@ -200,7 +223,8 @@
             "Lai Xiong Xing Daniel",
             "WILLIAM JACOB WIJAYA"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": ""
     },
     "CS3247-1": {
         "name": "Ant Passant",
@@ -212,7 +236,8 @@
             "ROYDEN SOH WEI JUN",
             "SOON WENG FOON TIMOTHY"
         ],
-        "videoLink": "https://youtu.be/kcRZT_nY-ls"
+        "videoLink": "https://youtu.be/kcRZT_nY-ls",
+        "posterLink": "https://i.imgur.com/TQeticw.png"
     },
     "CS3247-2": {
         "name": "Hours Between",
@@ -224,7 +249,8 @@
             "WEN SHAU FU",
             "YEO BING TECK, GEORGE"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": "https://i.imgur.com/UlVfD57.png"
     },
     "CS3247-3": {
         "name": "Zombie Vortex",
@@ -236,7 +262,8 @@
             "XU ZHAOHUA",
             "Guo Jingxiang"
         ],
-        "videoLink": ""
+        "videoLink": "https://youtu.be/BnsiMNfbVBY",
+        "posterLink": "https://lew1sin.github.io/images/poster_vrfps_00.png"
     },
     "CS3247-4": {
         "name": "Fools Gold",
@@ -247,7 +274,8 @@
             "TEO XU KAI",
             "THANT AUNG HTET NYAN"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": "https://i.imgur.com/1uaWOqk.png"
     },
     "CS3247-5": {
         "name": "Runebound",
@@ -259,7 +287,8 @@
             "LEE YAN HAN",
             "LIVIA MICHELLE ISKANDAR LEO"
         ],
-        "videoLink": "https://youtu.be/frfxRJFYle0"
+        "videoLink": "https://youtu.be/frfxRJFYle0",
+        "posterLink": "https://i.imgur.com/GDp810L.png"
     },
     "CS3247-6": {
         "name": "Ravening",
@@ -271,7 +300,8 @@
             "RAYSON CHIA HAO ZHE",
             "Zico"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": "https://i.imgur.com/pP5HDuv.jpeg"
     },
     "CS3247-7": {
         "name": "Pawblem Solvers",
@@ -283,7 +313,8 @@
             "PEARL TWE",
             "Wu Jingya"
         ],
-        "videoLink": "https://youtu.be/kl_xIG4sO2s"
+        "videoLink": "https://youtu.be/kl_xIG4sO2s",
+        "posterLink": "https://i.imgur.com/SxBp8vX.png"
     },
     "CS3247-8": {
         "name": "Dungeon Slayer",
@@ -295,7 +326,8 @@
             "MA YIRUI",
             "ZHANG PUYU"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": ""
     },
     "CS3247-9": {
         "name": "Ten Lives",
@@ -305,7 +337,8 @@
             "LOH JIN HUN",
             "TAN HONG JUN"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": "https://i.imgur.com/qZVJu6S.png"
     },
     "CS3247-10": {
         "name": "Project: SEELE",
@@ -316,19 +349,21 @@
             "Luo Haoyu",
             "WANG YUYANG"
         ],
-        "videoLink": "https://youtu.be/Ku0Hf-VadXI"
+        "videoLink": "https://youtu.be/Ku0Hf-VadXI",
+        "posterLink": "https://i.postimg.cc/3RmGGfxZ/poster-8bit.png"
     },
     "CS3247-11": {
         "name": "Heaven's Trial",
         "members": [
             "CHEN XIN-AN",
             "NG WEI MING",
-            "NICHOLAS CHONG YAO XUAN",
-            "THAM YAO XIANG",
             "YONG JUN XI",
-            "YU LEXUAN"
+            "YU LEXUAN",
+            "Tham Yao Xiang",
+            "Nicholas Chong Yao Xuan"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": "https://i.imgur.com/aZeGt3f.png"
     },
     "CS3247-12": {
         "name": "Castle Defence",
@@ -338,7 +373,8 @@
             "HOANG HUU CHINH",
             "JAWAD AFTHAB"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": "https://i.imgur.com/MNr2XlA.png"
     },
     "CS3247-13": {
         "name": "The Endless Halls",
@@ -348,14 +384,16 @@
             "YANG KATIE CAN",
             "Park Youngseo"
         ],
-        "videoLink": "https://youtu.be/Dro1ERvKhLc"
+        "videoLink": "https://youtu.be/Y2uTTZ1ioNU",
+        "posterLink": "https://i.imgur.com/v57A5M1.png"
     },
     "CS3247-14": {
-        "name": "Unknown",
+        "name": "Rich Within Reach",
         "members": [
             "WANG ZIHAN"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": ""
     },
     "CS3247-15": {
         "name": "The Last Runner",
@@ -366,7 +404,8 @@
             "MALHOTRA ARNAV",
             "PUAR KIAT WIN"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": "https://i.imgur.com/YQaGVB8.png"
     },
     "CS4240-1": {
         "name": "FlowZone",
@@ -377,7 +416,8 @@
             "NG WEI CHONG JAVIER",
             "SONG MENGFEI"
         ],
-        "videoLink": "https://youtu.be/-lT975akdzI"
+        "videoLink": "https://youtu.be/-lT975akdzI",
+        "posterLink": "https://i.imgur.com/QQO7RU2.png"
     },
     "CS4240-2": {
         "name": "StomaSim",
@@ -389,7 +429,8 @@
             "Zhang Mengjie",
             "CUI SHEN YI"
         ],
-        "videoLink": "https://youtu.be/rPIvV7fGXfo"
+        "videoLink": "https://youtu.be/rPIvV7fGXfo",
+        "posterLink": "https://i.imgur.com/REtkVxW.png"
     },
     "CS4240-3": {
         "name": "VRCare",
@@ -401,10 +442,11 @@
             "MAY THINZAR NAING",
             "YUVARAJ KUMARESAN"
         ],
-        "videoLink": "https://youtu.be/gkbymR8Z3oA"
+        "videoLink": "https://youtu.be/gkbymR8Z3oA",
+        "posterLink": "https://i.imgur.com/aJNTL6i.png"
     },
     "CS4240-5": {
-        "name": "Immersi-Fit",
+        "name": "ImmersiFit",
         "members": [
             "GARCIA ANDREAS JOHAN",
             "KIM JIN HEE",
@@ -413,7 +455,8 @@
             "TAY JIA YING",
             "WONG WEI TING"
         ],
-        "videoLink": "https://youtu.be/WFj7Wshu0JM"
+        "videoLink": "https://youtu.be/WFj7Wshu0JM",
+        "posterLink": "https://i.postimg.cc/nLpRbXLm/A1-Poster.png"
     },
     "CS4240-6": {
         "name": "LexiCrash",
@@ -425,7 +468,8 @@
             "YANG KAI",
             "Guo Jingxiang"
         ],
-        "videoLink": "https://youtu.be/kVOLBLp4PdM"
+        "videoLink": "https://youtu.be/kVOLBLp4PdM",
+        "posterLink": "https://img.picui.cn/free/2025/04/14/67fcb2b2a8688.jpg"
     },
     "CS4240-7": {
         "name": "Meltdown",
@@ -435,7 +479,8 @@
             "MELISSA ANASTASIA HARIJANTO",
             "Xu Yi"
         ],
-        "videoLink": "https://youtu.be/8kBxG7g7Pcg"
+        "videoLink": "https://youtu.be/8kBxG7g7Pcg",
+        "posterLink": "https://imgur.com/CAA246G.png"
     },
     "CS4240-8": {
         "name": "Spine3D",
@@ -447,7 +492,8 @@
             "TANG KYN-HAN",
             "THANT AUNG HTET NYAN"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": "https://i.imgur.com/axaP4DS.png"
     },
     "CS4240-9": {
         "name": "Cryosurgery Simulator",
@@ -456,10 +502,11 @@
             "JULIA CHRISTY PURBA",
             "Ryo Hilmawan"
         ],
-        "videoLink": "https://youtu.be/Hklds7-nDoc"
+        "videoLink": "https://youtu.be/Hklds7-nDoc",
+        "posterLink": "https://i.imgur.com/aIfLh0T.png"
     },
     "CS4248-1": {
-        "name": "[Team 14] Resolving Polysemous Words in Neural Machine Translation",
+        "name": "Resolving Polysemous Words in Neural Machine Translation",
         "members": [
             "Justin Cheah Yun Fei",
             "Yeo Zi Yi",
@@ -467,10 +514,11 @@
             "A0233414R",
             "Tsui Yi Wern"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": "https://i.imgur.com/S6AAQKt.png"
     },
     "CS4248-2": {
-        "name": "Team 25: Cross-Cultural Analysis of Sarcasm in News Headlines",
+        "name": "Cross Cultural Analysis of Sarcasm in News Headlines",
         "members": [
             "Benson Ang Wei Kiat",
             "Aslam",
@@ -479,7 +527,8 @@
             "Tan Ying Ting",
             "Choo Weng Yan"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": ""
     },
     "CS4248-3": {
         "name": "Large Language Models'  Emoji Composition Understanding with Visual Information",
@@ -489,10 +538,11 @@
             "Wang Yucheng",
             "Zhu Tianyi"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": ""
     },
     "CS4248-4": {
-        "name": "Eyes are All You Need",
+        "name": "Eyes are All You Need?",
         "members": [
             "Chow Jie, Seth",
             "Hung Ming Kin",
@@ -501,7 +551,8 @@
             "Li Chengyue",
             "ENG YU HAN"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": ""
     },
     "CS4248-5": {
         "name": "Can emojis be used to capture meaning?",
@@ -513,7 +564,8 @@
             "Zhang Mengjie",
             "MA JIAJUN"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": "https://i.ibb.co/DHSQL2g2/undefined-Imgur.jpg"
     },
     "CS4248-6": {
         "name": "Beyond the Headlines: Identifying Sarcasm in News Headlines",
@@ -528,7 +580,8 @@
             "Vaishnav Muralidharan",
             "Vigneshwar Hariharan"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": "https://i.imgur.com/kEhcTTY.png"
     },
     "CS4248-7": {
         "name": "Code Embeddings for RAG",
@@ -539,7 +592,8 @@
             "Seah Yi Xun Ryo",
             "JETHRO SIM SHENG YANG"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": ""
     },
     "CS4248-8": {
         "name": "Efficient Scientific Citation Intent Classification",
@@ -551,7 +605,8 @@
             "Nikhil Sultania",
             "CHENG JIN HAO"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": "https://i.imgur.com/PXsoN31.png"
     },
     "CS4248-9": {
         "name": "Distribution-Aware Sarcasm Detection",
@@ -563,7 +618,8 @@
             "BIMBISARIYE PRIYANSH",
             "Yang Yibai"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": "https://imgur.com/6iIakhh.png"
     },
     "CS4248-10": {
         "name": "Automating Intuition: Predicting ConceptNet Path Quality with Language Models",
@@ -574,18 +630,24 @@
             "Lu Haomeng",
             "Chan Caleb"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": "https://i.imgur.com/VmUtFi7.jpg"
     },
     "CS4248-11": {
-        "name": "Bias-Aware Word Embeddings: Leveraging ConceptNet for Fairer and Efficient NLP Models",
+        "name": "ConceptNet semantic knowledge graph",
         "members": [
             "Bernard Cheng Zheng Zhuan",
             "Kartikeya -",
             "Derrick Khoo",
             "LEE YUAN QI DARYLE",
-            "LOW XUE LING"
+            "LOW XUE LING",
+            "Lee Yuan Qi Daryle",
+            "Low Xue Ling",
+            "Kartikeya",
+            "Khoo Jing Hong, Derrick"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": "https://i.imgur.com/EeK4QS6.png"
     },
     "CS4248-12": {
         "name": "Beyond the Literal: Unmasking Sarcasm with Sentiment-Informed AI",
@@ -599,10 +661,11 @@
             "Morales Aames Juriel Beladas",
             "Neo Sun Han"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": "https://imgur.com/a/ALi6pkU.png"
     },
     "CS4248-14": {
-        "name": "Team 32: Not Just Deep: Contrastive Learning for Feature-Driven Sarcasm Classification",
+        "name": "32: Oh sure that's definitely not sarcasm",
         "members": [
             "Chong Tze Yan",
             "Da Jiaxuan",
@@ -611,20 +674,29 @@
             "Samuel Then Shi Jie",
             "Shanmugam Udhaya",
             "Yu Chenbo",
-            "Shanmugam Udhaya"
+            "Shanmugam Udhaya",
+            "Samuel Then Shi Jie",
+            "Wang Xinrong",
+            "Da Jiaxuan"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": "https://imgur.com/0mEsbjP.png"
     },
     "CS4248-15": {
-        "name": "Team 15: Decoding Sarcasm, A Hybrid NLP Approach to Support Neurodivergent Individuals through Enhanced Model Training and Data Strategies",
+        "name": "16: NLP model on the News Headlines Dataset For Sarcasm Detection",
         "members": [
             "Goh Jun Yi",
             "Fong Yih Jie",
             "Daniel Kok",
             "Eugene Chia",
-            "LIN CHIEH"
+            "LIN CHIEH",
+            "Daniel Kok",
+            "Eugene Chia",
+            "Goh Jun Yi",
+            "Lin Chieh"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": "https://i.imgur.com/hFH8JWp.png"
     },
     "CS4248-16": {
         "name": "Team 22: Using Influence Functions for LLM Unlearning",
@@ -635,7 +707,8 @@
             "Tan Xinhao",
             "Wang Shijia"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": ""
     },
     "IT5007-1": {
         "name": "IdentiPhish",
@@ -644,7 +717,8 @@
             "Hu Linyuan",
             "Livvi Sim Li Wei"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": "https://i.imgur.com/I9A3HtZ.png"
     },
     "IT5007-2": {
         "name": "Popcorn Language",
@@ -653,63 +727,72 @@
             "He Mingxuan \ufffd",
             "Cao Xingran"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": "https://i.imgur.com/71mWxZO.png"
     },
     "MComp-FYP-1": {
         "name": "Power management for Prahu Matahari",
         "members": [
             "LOICK\ufffdANTOINE LE GOFF"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": "https://i.imgur.com/sTRi4pW_d.jpeg"
     },
     "MComp-FYP-2": {
         "name": "A CSE machine for Python",
         "members": [
             "Wang Yuyang"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": "https://i.postimg.cc/y8BLtHbg/poster.png"
     },
     "MComp-FYP-3": {
         "name": "Improving Types in the Source Academy",
         "members": [
             "Toh Li Heng"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": ""
     },
     "MComp-FYP-4": {
         "name": "A Software Architecture for Browser-based Programming Language Implementation",
         "members": [
             "Samuel\ufffdTan"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": ""
     },
     "MComp-FYP-5": {
         "name": "Go in Source Academy",
         "members": [
             "LEE CHENG DA"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": "https://imgur.com/nHQZqRv.png"
     },
     "MComp-FYP-6": {
         "name": "Java in Source Academy",
         "members": [
             "Kale Aprup Vinay"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": ""
     },
     "MComp-FYP-7": {
         "name": "Source Academy as a VS Code Extension",
         "members": [
             "Tiang Hui Zheng"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": ""
     },
     "MComp-FYP-8": {
         "name": "Meta Mesh",
         "members": [
             "SUN RUOXIN"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": ""
     },
     "MComp-FYP-9": {
         "name": "Dynamic Difficulty Adjustment in VR Exergame",
@@ -717,7 +800,8 @@
             "WU LEZHENG",
             "Lee Care Gene"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": ""
     },
     "MComp-FYP-10": {
         "name": "iReflect: Enhancing Playtesting and Reflective Writing with LLMs",
@@ -726,16 +810,18 @@
             "Yu Wenli",
             "Tan Li Xin"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": ""
     },
     "MComp-FYP-11": {
-        "name": "Game Asset Generative AI Pipeline",
+        "name": "From Words to Worlds: AI-Powered 3D Game Asset Creation",
         "members": [
             "Troy Tim (Zhang Zhuoyu)",
             "Ng Qi Ting",
             "Li Tianze"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": "https://i.imgur.com/P6TpfeP.jpeg"
     },
     "MComp-FYP-12": {
         "name": "CRISP: Classroom Repository Interaction and Status Platform",
@@ -744,7 +830,8 @@
             "Koh Rui Jie",
             "Wang Xinyi"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": "https://i.imgur.com/6hULzfI.png"
     },
     "MComp-FYP-13": {
         "name": "TROFOS - AI Enabled Software Project Management",
@@ -752,14 +839,16 @@
             "Tham Rui Cong",
             "Tang Bo Kuan"
         ],
-        "videoLink": "https://youtu.be/UtoMkL37Vlw"
+        "videoLink": "https://youtu.be/UtoMkL37Vlw",
+        "posterLink": "https://i.imgur.com/MnbVn4X.png"
     },
     "MComp-FYP-14": {
         "name": "Coursemology RagWise Auto Forum Response",
         "members": [
             "Png Yi Wei Jonas"
         ],
-        "videoLink": "https://youtu.be/alO8WSEig1M"
+        "videoLink": "https://youtu.be/alO8WSEig1M",
+        "posterLink": "https://i.imgur.com/qBie3sN.png"
     },
     "MComp-FYP-15": {
         "name": "Adaptive Quiz and Programming Assignment Platform for Self-Guided AI Learning & Education",
@@ -767,7 +856,8 @@
             "Seah Shau Chung Nicholas",
             "Chrysline Lim Xing Hui"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": "https://i.imgur.com/puEzzF9.png"
     },
     "MComp-FYP-16": {
         "name": "Pebble",
@@ -775,6 +865,7 @@
             "Anjali Agarwal",
             "Pratham Jain"
         ],
-        "videoLink": ""
+        "videoLink": "",
+        "posterLink": "https://pebble-uploads.s3.ap-southeast-1.amazonaws.com/pebble-media/photo_2025-04-16+14.28.53.jpeg"
     }
 }

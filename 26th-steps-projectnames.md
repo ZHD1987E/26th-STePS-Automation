@@ -76,7 +76,7 @@ CS3247-12: Castle Defence
 
 CS3247-13: The Endless Halls 
 
-CS3247-14: Unknown 
+CS3247-14: Rich Within Reach 
 
 CS3247-15: The Last Runner 
 
@@ -87,7 +87,7 @@ CS4240-2: StomaSim
 
 CS4240-3: VRCare 
 
-CS4240-5: Immersi-Fit 
+CS4240-5: ImmersiFit 
 
 CS4240-6: LexiCrash 
 
@@ -98,13 +98,13 @@ CS4240-8: Spine3D
 CS4240-9: Cryosurgery Simulator 
 
 # CS4248 Natural Language Processing
-CS4248-1: [Team 14] Resolving Polysemous Words in Neural Machine Translation 
+CS4248-1: Resolving Polysemous Words in Neural Machine Translation 
 
-CS4248-2: Team 25: Cross-Cultural Analysis of Sarcasm in News Headlines 
+CS4248-2: Cross Cultural Analysis of Sarcasm in News Headlines 
 
 CS4248-3: Large Language Models'  Emoji Composition Understanding with Visual Information 
 
-CS4248-4: Eyes are All You Need 
+CS4248-4: Eyes are All You Need? 
 
 CS4248-5: Can emojis be used to capture meaning? 
 
@@ -118,13 +118,13 @@ CS4248-9: Distribution-Aware Sarcasm Detection
 
 CS4248-10: Automating Intuition: Predicting ConceptNet Path Quality with Language Models 
 
-CS4248-11: Bias-Aware Word Embeddings: Leveraging ConceptNet for Fairer and Efficient NLP Models 
+CS4248-11: ConceptNet semantic knowledge graph 
 
 CS4248-12: Beyond the Literal: Unmasking Sarcasm with Sentiment-Informed AI 
 
-CS4248-14: Team 32: Not Just Deep: Contrastive Learning for Feature-Driven Sarcasm Classification 
+CS4248-14: 32: Oh sure that's definitely not sarcasm 
 
-CS4248-15: Team 15: Decoding Sarcasm, A Hybrid NLP Approach to Support Neurodivergent Individuals through Enhanced Model Training and Data Strategies 
+CS4248-15: 16: NLP model on the News Headlines Dataset For Sarcasm Detection 
 
 CS4248-16: Team 22: Using Influence Functions for LLM Unlearning 
 
@@ -154,7 +154,7 @@ MComp-FYP-9: Dynamic Difficulty Adjustment in VR Exergame
 
 MComp-FYP-10: iReflect: Enhancing Playtesting and Reflective Writing with LLMs 
 
-MComp-FYP-11: Game Asset Generative AI Pipeline 
+MComp-FYP-11: From Words to Worlds: AI-Powered 3D Game Asset Creation 
 
 MComp-FYP-12: CRISP: Classroom Repository Interaction and Status Platform 
 

@@ -1,4 +1,3 @@
-# Automated download script for videos contained in 'videolinks.txt'
 # Take note this CANNOT be run on Github as it will be flagged as bot actions.
 # Run this on your local machine.
 # Author: ZHD1987E
@@ -6,6 +5,8 @@
 ## Importing the neccessary libraries
 import yt_dlp
 import json
+
+
 
 def do_download(url, filename):
     ydl_opts = {
